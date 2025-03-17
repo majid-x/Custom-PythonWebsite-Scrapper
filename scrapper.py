@@ -46,6 +46,7 @@ def init_db():
                   
     c.execute('''CREATE TABLE IF NOT EXISTS holdings
                  (id INTEGER PRIMARY KEY AUTOINCREMENT,
+              sym TEXT,
                   filing_id INTEGER,
                   issuer_name TEXT,
                   cl TEXT,
@@ -53,6 +54,8 @@ def init_db():
                   shares INTEGER,
                   value INTEGER,
                   transaction_type TEXT,
+                  change INTEGER,
+                pct_change INTEGER,
                   FOREIGN KEY(filing_id) REFERENCES filing(id))''')
     conn.commit()
     conn.close()
@@ -241,9 +244,10 @@ def scrape_holdings(delay):
                         continue
                     db_execute(
                         '''INSERT OR IGNORE INTO holdings
-                        (filing_id, issuer_name,cl ,cusip, shares, value)
-                        VALUES (?, ?, ?, ?, ?,?)''',
+                        (filing_id,sym, issuer_name,cl ,cusip, shares, value)
+                        VALUES (?, ?,?, ?, ?, ?,?)''',
                         (filing_id,
+                         entry[0],
                          entry[1],  # Issuer Name
                          cl_value,
                          entry[3],
@@ -332,13 +336,14 @@ def infer_transaction_types():
                 transaction_type = 'Sell'
             else:
                 transaction_type = 'Other'
-            
+            change = current_shares - shares_prev
+            pct_change =  ((current_shares - shares_prev) / shares_prev) * 100
             # Update database
             db_execute(
                 """UPDATE holdings
-                SET transaction_type = ?
+                SET transaction_type = ?,change = ?, pct_change = ?
                 WHERE id = ?""",
-                (transaction_type,holding_id),
+                (transaction_type,change,pct_change,holding_id),
                 commit=True
             )
         except Exception as e:
@@ -348,12 +353,15 @@ def export_to_csv(output_path):
     try:
         conn = sqlite3.connect(DATABASE_NAME)
         query = '''
-            SELECT m.name AS manager_name,
+            SELECT h.issuer_name AS fund_name,
+                   f.date_filled,
                    f.quarter_date,
-                   h.issuer_name AS security_name,
-                   h.cusip,
+                   h.sym,
+                   h.cl,
+                   h.value,
                    h.shares,
-                   h.value AS market_value,
+                   h.change,
+                   h.pct_change,
                    h.transaction_type
             FROM holdings h
             JOIN filing f ON h.filing_id = f.id
