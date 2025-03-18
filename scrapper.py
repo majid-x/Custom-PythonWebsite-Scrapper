@@ -196,16 +196,30 @@ def scrape_filings(delay):
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=8) as executor:
         executor.map(process_manager, managers)
+import re
+from urllib.parse import urljoin
+from bs4 import BeautifulSoup
 
+def parse_quarter_date(quarter_date):
+    """Convert quarter date string (e.g., 'Q1 2024') to a tuple (year, quarter) for comparison."""
+    match = re.match(r'Q([1-4]) (\d{4})', quarter_date)
+    if match:
+        quarter, year = int(match.group(1)), int(match.group(2))
+        return (year, quarter)
+    return None
 def scrape_holdings(delay):
     rate_limiter = RateLimiter(delay)
     filings = db_execute(
-        "SELECT id, filing_url FROM filing WHERE form_type = '13F-HR'",
+        "SELECT id, filing_url, quarter_date FROM filing WHERE form_type = '13F-HR'",
         fetch=True
     )
-
+    min_date = (2014, 1)
     def process_filing(filing):
-        filing_id, filing_url = filing
+        filing_id, filing_url , quarter_date= filing
+        parsed_date = parse_quarter_date(quarter_date)
+
+        # Skip filings before or equal to Q1 2024
+        
         try:
             rate_limiter.wait()
             logger.info(f"Scraping holdings for filing {filing_id}")
@@ -227,6 +241,8 @@ def scrape_holdings(delay):
             for entry in response_data.get('data', []):
                 try:
                     if not isinstance(entry, list) or len(entry) < 9:
+                        continue
+                    if parsed_date and parsed_date <= min_date:
                         continue
                     
                     entry = [item if item != "null" else None for item in entry]
@@ -345,9 +361,9 @@ def main():
         #scrape_managers(args.delay)
         #logger.info("Scraping filings...")
         #scrape_filings(args.delay)
-        #logger.info("Scraping holdings...")
-        #scrape_holdings(args.delay)
-        #logger.info("Inferring transactions...")
+        logger.info("Scraping holdings...")
+        scrape_holdings(args.delay)
+        logger.info("Inferring transactions...")
         infer_transaction_types()
         logger.info("Exporting data...")
         export_to_csv(args.output)

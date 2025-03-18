@@ -32,3 +32,1583 @@
 2025-03-17 20:33:00,653 - INFO - Exporting data...
 2025-03-17 20:33:00,693 - INFO - Exported 121 records to transactions.csv
 2025-03-17 20:33:00,694 - INFO - Process completed successfully
+2025-03-18 20:44:19,964 - INFO - Inferring transactions...
+2025-03-18 20:44:19,989 - INFO - 1 Q4 2024
+2025-03-18 20:44:19,992 - INFO - Current shares: 1640962, Previous shares: 1767562
+2025-03-18 20:44:20,001 - INFO - 1 Q4 2024
+2025-03-18 20:44:20,003 - INFO - Current shares: 532631, Previous shares: 541631
+2025-03-18 20:44:20,010 - INFO - 1 Q4 2024
+2025-03-18 20:44:20,012 - INFO - Current shares: 858770, Previous shares: 88871
+2025-03-18 20:44:20,020 - INFO - 1 Q4 2024
+2025-03-18 20:44:20,022 - INFO - Current shares: 679997, Previous shares: 229586
+2025-03-18 20:44:20,029 - INFO - 1 Q4 2024
+2025-03-18 20:44:20,030 - INFO - Current shares: 210000, Previous shares: 541631
+2025-03-18 20:44:20,040 - INFO - 1 Q4 2024
+2025-03-18 20:44:20,041 - INFO - Current shares: 221783, Previous shares: 214160
+2025-03-18 20:44:20,049 - INFO - 1 Q4 2024
+2025-03-18 20:44:20,051 - INFO - Current shares: 127520, Previous shares: 136520
+2025-03-18 20:44:20,058 - INFO - 1 Q4 2024
+2025-03-18 20:44:20,062 - INFO - Current shares: 353000, Previous shares: 17712
+2025-03-18 20:44:20,068 - INFO - 1 Q4 2024
+2025-03-18 20:44:20,071 - INFO - Current shares: 137500, Previous shares: 1767562
+2025-03-18 20:44:20,078 - INFO - 1 Q4 2024
+2025-03-18 20:44:20,079 - INFO - Current shares: 50000, Previous shares: 136520
+2025-03-18 20:44:20,084 - INFO - 1 Q4 2024
+2025-03-18 20:44:20,086 - INFO - Current shares: 9520, Previous shares: 9520
+2025-03-18 20:44:20,090 - INFO - 1 Q4 2024
+2025-03-18 20:44:20,092 - INFO - Current shares: 373300, Previous shares: 214160
+2025-03-18 20:44:20,098 - INFO - 1 Q4 2024
+2025-03-18 20:44:20,100 - INFO - Current shares: 562, Previous shares: 562
+2025-03-18 20:44:20,106 - INFO - 1 Q4 2024
+2025-03-18 20:44:20,107 - INFO - Current shares: 11335, Previous shares: 11335
+2025-03-18 20:44:20,112 - INFO - 1 Q4 2024
+2025-03-18 20:44:20,113 - INFO - Current shares: 1040, Previous shares: 7040
+2025-03-18 20:44:20,118 - INFO - 1 Q4 2024
+2025-03-18 20:44:20,119 - INFO - Current shares: 3088, Previous shares: 3088
+2025-03-18 20:44:20,124 - INFO - 1 Q4 2024
+2025-03-18 20:44:20,126 - INFO - Current shares: 18867, Previous shares: 18867
+2025-03-18 20:44:20,130 - INFO - 1 Q4 2024
+2025-03-18 20:44:20,131 - INFO - Current shares: 79869, Previous shares: 79869
+2025-03-18 20:44:20,137 - INFO - 1 Q4 2024
+2025-03-18 20:44:20,138 - INFO - Current shares: 2244, Previous shares: 2244
+2025-03-18 20:44:20,142 - INFO - 1 Q4 2024
+2025-03-18 20:44:20,144 - INFO - Current shares: 6653, Previous shares: 6653
+2025-03-18 20:44:20,148 - INFO - 1 Q4 2024
+2025-03-18 20:44:20,151 - INFO - Current shares: 28, Previous shares: 9628
+2025-03-18 20:44:20,156 - INFO - 1 Q4 2024
+2025-03-18 20:44:20,157 - INFO - Current shares: 4422, Previous shares: 4422
+2025-03-18 20:44:20,164 - INFO - 1 Q4 2024
+2025-03-18 20:44:20,165 - INFO - Current shares: 6, Previous shares: 6
+2025-03-18 20:44:20,170 - INFO - 1 Q4 2024
+2025-03-18 20:44:20,172 - INFO - Current shares: 12, Previous shares: 17712
+2025-03-18 20:44:20,177 - INFO - 1 Q4 2024
+2025-03-18 20:44:20,178 - INFO - Current shares: 22, Previous shares: 22
+2025-03-18 20:44:20,183 - INFO - 1 Q3 2024
+2025-03-18 20:44:20,184 - INFO - Current shares: 1767562, Previous shares: 1862462
+2025-03-18 20:44:20,189 - INFO - 1 Q3 2024
+2025-03-18 20:44:20,191 - INFO - Current shares: 541631, Previous shares: 618131
+2025-03-18 20:44:20,196 - INFO - 1 Q3 2024
+2025-03-18 20:44:20,198 - INFO - Current shares: 146500, Previous shares: 618131
+2025-03-18 20:44:20,202 - INFO - 1 Q3 2024
+2025-03-18 20:44:20,203 - INFO - Current shares: 229586, Previous shares: 2566
+2025-03-18 20:44:20,208 - INFO - 1 Q3 2024
+2025-03-18 20:44:20,211 - INFO - Current shares: 229400, Previous shares: 2566
+2025-03-18 20:44:20,215 - INFO - 1 Q3 2024
+2025-03-18 20:44:20,217 - INFO - Current shares: 214160, Previous shares: 18558
+2025-03-18 20:44:20,221 - INFO - 1 Q3 2024
+2025-03-18 20:44:20,223 - INFO - Current shares: 17712, Previous shares: 20012
+2025-03-18 20:44:20,228 - INFO - 1 Q3 2024
+2025-03-18 20:44:20,229 - INFO - Current shares: 17700, Previous shares: 20012
+2025-03-18 20:44:20,233 - INFO - 1 Q3 2024
+2025-03-18 20:44:20,234 - INFO - Current shares: 473500, Previous shares: 1862462
+2025-03-18 20:44:20,241 - INFO - 1 Q3 2024
+2025-03-18 20:44:20,244 - INFO - Current shares: 136520, Previous shares: 175120
+2025-03-18 20:44:20,251 - INFO - 1 Q3 2024
+2025-03-18 20:44:20,254 - INFO - Current shares: 9628, Previous shares: 13528
+2025-03-18 20:44:20,259 - INFO - 1 Q3 2024
+2025-03-18 20:44:20,261 - INFO - Current shares: 60300, Previous shares: 175120
+2025-03-18 20:44:20,265 - INFO - 1 Q3 2024
+2025-03-18 20:44:20,267 - INFO - Current shares: 88871, Previous shares: 88871
+2025-03-18 20:44:20,272 - INFO - 1 Q3 2024
+2025-03-18 20:44:20,273 - INFO - Current shares: 9520, Previous shares: 9520
+2025-03-18 20:44:20,279 - INFO - 1 Q3 2024
+2025-03-18 20:44:20,280 - INFO - Current shares: 20800, Previous shares: 18558
+2025-03-18 20:44:20,284 - INFO - 1 Q3 2024
+2025-03-18 20:44:20,285 - INFO - Current shares: 7040, Previous shares: 7440
+2025-03-18 20:44:20,292 - INFO - 1 Q3 2024
+2025-03-18 20:44:20,294 - INFO - Current shares: 562, Previous shares: 562
+2025-03-18 20:44:20,299 - INFO - 1 Q3 2024
+2025-03-18 20:44:20,301 - INFO - Current shares: 11335, Previous shares: 11335
+2025-03-18 20:44:20,308 - INFO - 1 Q3 2024
+2025-03-18 20:44:20,313 - INFO - Current shares: 3088, Previous shares: 3088
+2025-03-18 20:44:20,389 - INFO - 1 Q3 2024
+2025-03-18 20:44:20,412 - INFO - Current shares: 79869, Previous shares: 79869
+2025-03-18 20:44:20,465 - INFO - 1 Q3 2024
+2025-03-18 20:44:20,469 - INFO - Current shares: 18867, Previous shares: 18867
+2025-03-18 20:44:20,481 - INFO - 1 Q3 2024
+2025-03-18 20:44:20,484 - INFO - Current shares: 6653, Previous shares: 6653
+2025-03-18 20:44:20,498 - INFO - 1 Q3 2024
+2025-03-18 20:44:20,500 - INFO - Current shares: 2244, Previous shares: 2244
+2025-03-18 20:44:20,510 - INFO - 1 Q3 2024
+2025-03-18 20:44:20,511 - INFO - Current shares: 4422, Previous shares: 4422
+2025-03-18 20:44:20,519 - INFO - 1 Q3 2024
+2025-03-18 20:44:20,521 - INFO - Current shares: 6, Previous shares: 6
+2025-03-18 20:44:20,531 - INFO - 1 Q3 2024
+2025-03-18 20:44:20,533 - INFO - Current shares: 22, Previous shares: 22
+2025-03-18 20:44:20,543 - INFO - 1 Q2 2024
+2025-03-18 20:44:20,546 - INFO - Current shares: 1862462, Previous shares: 1893137
+2025-03-18 20:44:20,555 - INFO - 1 Q2 2024
+2025-03-18 20:44:20,558 - INFO - Current shares: 566000, Previous shares: 1893137
+2025-03-18 20:44:20,567 - INFO - 1 Q2 2024
+2025-03-18 20:44:20,570 - INFO - Current shares: 618131, Previous shares: 724241
+2025-03-18 20:44:20,578 - INFO - 1 Q2 2024
+2025-03-18 20:44:20,581 - INFO - Current shares: 197000, Previous shares: 724241
+2025-03-18 20:44:20,588 - INFO - 1 Q2 2024
+2025-03-18 20:44:20,591 - INFO - Current shares: 20012, Previous shares: 20012
+2025-03-18 20:44:20,600 - INFO - 1 Q2 2024
+2025-03-18 20:44:20,601 - INFO - Current shares: 175120, Previous shares: 192535
+2025-03-18 20:44:20,608 - INFO - 1 Q2 2024
+2025-03-18 20:44:20,610 - INFO - Current shares: 170000, Previous shares: 192535
+2025-03-18 20:44:20,621 - INFO - 1 Q2 2024
+2025-03-18 20:44:20,625 - INFO - Current shares: 10000, Previous shares: 20012
+2025-03-18 20:44:20,632 - INFO - 1 Q2 2024
+2025-03-18 20:44:20,634 - INFO - Current shares: 13528, Previous shares: 13528
+2025-03-18 20:44:20,645 - INFO - 1 Q2 2024
+2025-03-18 20:44:20,648 - INFO - Current shares: 88871, Previous shares: 88871
+2025-03-18 20:44:20,657 - INFO - 1 Q2 2024
+2025-03-18 20:44:20,660 - INFO - Current shares: 9520, Previous shares: 9520
+2025-03-18 20:44:20,669 - INFO - 1 Q2 2024
+2025-03-18 20:44:20,672 - INFO - Current shares: 7440, Previous shares: 7440
+2025-03-18 20:44:20,682 - INFO - 1 Q2 2024
+2025-03-18 20:44:20,684 - INFO - Current shares: 18558, Previous shares: 222
+2025-03-18 20:44:20,695 - INFO - 1 Q2 2024
+2025-03-18 20:44:20,697 - INFO - Current shares: 562, Previous shares: 562
+2025-03-18 20:44:20,707 - INFO - 1 Q2 2024
+2025-03-18 20:44:20,711 - INFO - Current shares: 11335, Previous shares: 11335
+2025-03-18 20:44:20,718 - INFO - 1 Q2 2024
+2025-03-18 20:44:20,720 - INFO - Current shares: 3088, Previous shares: 85580
+2025-03-18 20:44:20,729 - INFO - 1 Q2 2024
+2025-03-18 20:44:20,731 - INFO - Current shares: 79869, Previous shares: 79869
+2025-03-18 20:44:20,738 - INFO - 1 Q2 2024
+2025-03-18 20:44:20,741 - INFO - Current shares: 2566, Previous shares: 2566
+2025-03-18 20:44:20,751 - INFO - 1 Q2 2024
+2025-03-18 20:44:20,752 - INFO - Current shares: 18867, Previous shares: 18867
+2025-03-18 20:44:20,763 - INFO - 1 Q2 2024
+2025-03-18 20:44:20,765 - INFO - Current shares: 6653, Previous shares: 6653
+2025-03-18 20:44:20,774 - INFO - 1 Q2 2024
+2025-03-18 20:44:20,777 - INFO - Current shares: 2244, Previous shares: 2244
+2025-03-18 20:44:20,785 - INFO - 1 Q2 2024
+2025-03-18 20:44:20,789 - INFO - Current shares: 4422, Previous shares: 5988
+2025-03-18 20:44:20,798 - INFO - 1 Q2 2024
+2025-03-18 20:44:20,799 - INFO - Current shares: 6, Previous shares: 6
+2025-03-18 20:44:20,808 - INFO - 1 Q2 2024
+2025-03-18 20:44:20,820 - INFO - Current shares: 22, Previous shares: 22
+2025-03-18 20:44:20,872 - INFO - 1 Q1 2024
+2025-03-18 20:44:20,886 - INFO - Current shares: 1893137, Previous shares: 848930
+2025-03-18 20:44:20,921 - INFO - 1 Q1 2024
+2025-03-18 20:44:20,924 - INFO - Current shares: 724241, Previous shares: 916841
+2025-03-18 20:44:20,938 - INFO - 1 Q1 2024
+2025-03-18 20:44:20,941 - INFO - Current shares: 248600, Previous shares: 916841
+2025-03-18 20:44:20,951 - INFO - 1 Q1 2024
+2025-03-18 20:44:20,954 - INFO - Current shares: 536700, Previous shares: 848930
+2025-03-18 20:44:20,964 - INFO - 1 Q1 2024
+2025-03-18 20:44:20,966 - INFO - Current shares: 20012, Previous shares: 39012
+2025-03-18 20:44:20,974 - INFO - 1 Q1 2024
+2025-03-18 20:44:20,979 - INFO - Current shares: 192535, Previous shares: 22535
+2025-03-18 20:44:20,987 - INFO - 1 Q1 2024
+2025-03-18 20:44:20,989 - INFO - Current shares: 13528, Previous shares: 42328
+2025-03-18 20:44:21,002 - INFO - 1 Q1 2024
+2025-03-18 20:44:21,004 - INFO - Current shares: 85580, Previous shares: 85580
+2025-03-18 20:44:21,014 - INFO - 1 Q1 2024
+2025-03-18 20:44:21,016 - INFO - Current shares: 88871, Previous shares: 88871
+2025-03-18 20:44:21,023 - INFO - 1 Q1 2024
+2025-03-18 20:44:21,026 - INFO - Current shares: 9520, Previous shares: 9520
+2025-03-18 20:44:21,035 - INFO - 1 Q1 2024
+2025-03-18 20:44:21,037 - INFO - Current shares: 7440, Previous shares: 0
+2025-03-18 20:44:21,037 - ERROR - Transaction inference error: division by zero
+2025-03-18 20:44:21,045 - INFO - 1 Q1 2024
+2025-03-18 20:44:21,047 - INFO - Current shares: 79869, Previous shares: 79869
+2025-03-18 20:44:21,056 - INFO - 1 Q1 2024
+2025-03-18 20:44:21,058 - INFO - Current shares: 562, Previous shares: 562
+2025-03-18 20:44:21,068 - INFO - 1 Q1 2024
+2025-03-18 20:44:21,070 - INFO - Current shares: 11335, Previous shares: 11335
+2025-03-18 20:44:21,080 - INFO - 1 Q1 2024
+2025-03-18 20:44:21,082 - INFO - Current shares: 6403, Previous shares: 6403
+2025-03-18 20:44:21,090 - INFO - 1 Q1 2024
+2025-03-18 20:44:21,093 - INFO - Current shares: 2566, Previous shares: 2566
+2025-03-18 20:44:21,101 - INFO - 1 Q1 2024
+2025-03-18 20:44:21,104 - INFO - Current shares: 18867, Previous shares: 18867
+2025-03-18 20:44:21,115 - INFO - 1 Q1 2024
+2025-03-18 20:44:21,117 - INFO - Current shares: 6653, Previous shares: 6653
+2025-03-18 20:44:21,127 - INFO - 1 Q1 2024
+2025-03-18 20:44:21,130 - INFO - Current shares: 2244, Previous shares: 2244
+2025-03-18 20:44:21,139 - INFO - 1 Q1 2024
+2025-03-18 20:44:21,141 - INFO - Current shares: 5988, Previous shares: 5988
+2025-03-18 20:44:21,151 - INFO - 1 Q1 2024
+2025-03-18 20:44:21,153 - INFO - Current shares: 222, Previous shares: 0
+2025-03-18 20:44:21,154 - ERROR - Transaction inference error: division by zero
+2025-03-18 20:44:21,162 - INFO - 1 Q1 2024
+2025-03-18 20:44:21,165 - INFO - Current shares: 6, Previous shares: 6
+2025-03-18 20:44:21,173 - INFO - 1 Q1 2024
+2025-03-18 20:44:21,176 - INFO - Current shares: 22, Previous shares: 22
+2025-03-18 20:44:21,184 - INFO - 1 Q4 2023
+2025-03-18 20:44:21,186 - INFO - Current shares: 848930, Previous shares: 0
+2025-03-18 20:44:21,186 - ERROR - Transaction inference error: division by zero
+2025-03-18 20:44:21,191 - INFO - 1 Q4 2023
+2025-03-18 20:44:21,196 - INFO - Current shares: 916841, Previous shares: 0
+2025-03-18 20:44:21,196 - ERROR - Transaction inference error: division by zero
+2025-03-18 20:44:21,201 - INFO - 1 Q4 2023
+2025-03-18 20:44:21,203 - INFO - Current shares: 441200, Previous shares: 0
+2025-03-18 20:44:21,204 - ERROR - Transaction inference error: division by zero
+2025-03-18 20:44:21,208 - INFO - 1 Q4 2023
+2025-03-18 20:44:21,212 - INFO - Current shares: 39012, Previous shares: 0
+2025-03-18 20:44:21,212 - ERROR - Transaction inference error: division by zero
+2025-03-18 20:44:21,217 - INFO - 1 Q4 2023
+2025-03-18 20:44:21,218 - INFO - Current shares: 42328, Previous shares: 0
+2025-03-18 20:44:21,219 - ERROR - Transaction inference error: division by zero
+2025-03-18 20:44:21,222 - INFO - 1 Q4 2023
+2025-03-18 20:44:21,225 - INFO - Current shares: 28800, Previous shares: 0
+2025-03-18 20:44:21,226 - ERROR - Transaction inference error: division by zero
+2025-03-18 20:44:21,232 - INFO - 1 Q4 2023
+2025-03-18 20:44:21,233 - INFO - Current shares: 19000, Previous shares: 0
+2025-03-18 20:44:21,233 - ERROR - Transaction inference error: division by zero
+2025-03-18 20:44:21,237 - INFO - 1 Q4 2023
+2025-03-18 20:44:21,239 - INFO - Current shares: 85580, Previous shares: 0
+2025-03-18 20:44:21,239 - ERROR - Transaction inference error: division by zero
+2025-03-18 20:44:21,244 - INFO - 1 Q4 2023
+2025-03-18 20:44:21,247 - INFO - Current shares: 9520, Previous shares: 0
+2025-03-18 20:44:21,247 - ERROR - Transaction inference error: division by zero
+2025-03-18 20:44:21,250 - INFO - 1 Q4 2023
+2025-03-18 20:44:21,252 - INFO - Current shares: 88871, Previous shares: 0
+2025-03-18 20:44:21,252 - ERROR - Transaction inference error: division by zero
+2025-03-18 20:44:21,256 - INFO - 1 Q4 2023
+2025-03-18 20:44:21,258 - INFO - Current shares: 22535, Previous shares: 0
+2025-03-18 20:44:21,259 - ERROR - Transaction inference error: division by zero
+2025-03-18 20:44:21,264 - INFO - 1 Q4 2023
+2025-03-18 20:44:21,266 - INFO - Current shares: 11335, Previous shares: 0
+2025-03-18 20:44:21,266 - ERROR - Transaction inference error: division by zero
+2025-03-18 20:44:21,270 - INFO - 1 Q4 2023
+2025-03-18 20:44:21,273 - INFO - Current shares: 79869, Previous shares: 0
+2025-03-18 20:44:21,273 - ERROR - Transaction inference error: division by zero
+2025-03-18 20:44:21,280 - INFO - 1 Q4 2023
+2025-03-18 20:44:21,282 - INFO - Current shares: 562, Previous shares: 0
+2025-03-18 20:44:21,282 - ERROR - Transaction inference error: division by zero
+2025-03-18 20:44:21,286 - INFO - 1 Q4 2023
+2025-03-18 20:44:21,288 - INFO - Current shares: 6403, Previous shares: 0
+2025-03-18 20:44:21,288 - ERROR - Transaction inference error: division by zero
+2025-03-18 20:44:21,293 - INFO - 1 Q4 2023
+2025-03-18 20:44:21,296 - INFO - Current shares: 2566, Previous shares: 0
+2025-03-18 20:44:21,297 - ERROR - Transaction inference error: division by zero
+2025-03-18 20:44:21,300 - INFO - 1 Q4 2023
+2025-03-18 20:44:21,302 - INFO - Current shares: 6653, Previous shares: 0
+2025-03-18 20:44:21,302 - ERROR - Transaction inference error: division by zero
+2025-03-18 20:44:21,306 - INFO - 1 Q4 2023
+2025-03-18 20:44:21,309 - INFO - Current shares: 18867, Previous shares: 0
+2025-03-18 20:44:21,309 - ERROR - Transaction inference error: division by zero
+2025-03-18 20:44:21,322 - INFO - 1 Q4 2023
+2025-03-18 20:44:21,331 - INFO - Current shares: 389, Previous shares: 0
+2025-03-18 20:44:21,332 - ERROR - Transaction inference error: division by zero
+2025-03-18 20:44:21,350 - INFO - 1 Q4 2023
+2025-03-18 20:44:21,353 - INFO - Current shares: 2244, Previous shares: 0
+2025-03-18 20:44:21,353 - ERROR - Transaction inference error: division by zero
+2025-03-18 20:44:21,361 - INFO - 1 Q4 2023
+2025-03-18 20:44:21,365 - INFO - Current shares: 5988, Previous shares: 0
+2025-03-18 20:44:21,366 - ERROR - Transaction inference error: division by zero
+2025-03-18 20:44:21,374 - INFO - 1 Q4 2023
+2025-03-18 20:44:21,377 - INFO - Current shares: 6, Previous shares: 0
+2025-03-18 20:44:21,377 - ERROR - Transaction inference error: division by zero
+2025-03-18 20:44:21,381 - INFO - 1 Q4 2023
+2025-03-18 20:44:21,383 - INFO - Current shares: 22, Previous shares: 0
+2025-03-18 20:44:21,383 - ERROR - Transaction inference error: division by zero
+2025-03-18 20:44:21,383 - INFO - Exporting CSV...
+2025-03-18 20:44:21,422 - INFO - Exported 121 records to transactions.csv
+2025-03-18 20:44:21,424 - INFO - Process completed successfully
+2025-03-18 20:44:30,226 - INFO - Scraping holdings...
+2025-03-18 20:44:30,227 - ERROR - Fatal error: no such table: filings
+2025-03-18 20:45:00,455 - INFO - Scraping holdings...
+2025-03-18 20:45:00,458 - ERROR - Fatal error: no such column: filing_date
+2025-03-18 20:46:28,549 - INFO - Scraping holdings...
+2025-03-18 20:46:28,552 - INFO - Scraping holdings for filing 1 (Date: 1/28/2025)
+2025-03-18 20:46:32,431 - INFO - Fetching API data from https://13f.info/data/13f/000200927525000002
+2025-03-18 20:46:35,751 - INFO - Inserted holding: 19260Q107
+2025-03-18 20:46:35,766 - INFO - Inserted holding: 009066101
+2025-03-18 20:46:35,777 - INFO - Inserted holding: 7085569QQ
+2025-03-18 20:46:35,785 - INFO - Inserted holding: 7382679BT
+2025-03-18 20:46:35,793 - INFO - Inserted holding: 009066101
+2025-03-18 20:46:35,802 - INFO - Inserted holding: 565394103
+2025-03-18 20:46:35,834 - INFO - Inserted holding: 00827B106
+2025-03-18 20:46:35,867 - INFO - Inserted holding: 594918104
+2025-03-18 20:46:35,902 - INFO - Inserted holding: 7100769FB
+2025-03-18 20:46:35,921 - INFO - Inserted holding: 00827B106
+2025-03-18 20:46:35,931 - INFO - Inserted holding: 023135106
+2025-03-18 20:46:35,940 - INFO - Inserted holding: 565394103
+2025-03-18 20:46:35,950 - INFO - Inserted holding: 64110L106
+2025-03-18 20:46:35,960 - INFO - Inserted holding: 77313F106
+2025-03-18 20:46:35,970 - INFO - Inserted holding: 18915M107
+2025-03-18 20:46:35,980 - INFO - Inserted holding: 25402D102
+2025-03-18 20:46:35,989 - INFO - Inserted holding: 00791N102
+2025-03-18 20:46:36,000 - INFO - Inserted holding: 00534A102
+2025-03-18 20:46:36,009 - INFO - Inserted holding: 55087P104
+2025-03-18 20:46:36,019 - INFO - Inserted holding: 231269309
+2025-03-18 20:46:36,028 - INFO - Inserted holding: 79466L302
+2025-03-18 20:46:36,038 - INFO - Inserted holding: 683712103
+2025-03-18 20:46:36,048 - INFO - Inserted holding: 81762P102
+2025-03-18 20:46:36,056 - INFO - Inserted holding: 594918104
+2025-03-18 20:46:36,067 - INFO - Inserted holding: 254687106
+2025-03-18 20:46:36,067 - INFO - Scraping holdings for filing 2 (Date: 10/24/2024)
+2025-03-18 20:46:39,674 - INFO - Fetching API data from https://13f.info/data/13f/000200927524000005
+2025-03-18 20:49:08,636 - INFO - Scraping holdings...
+2025-03-18 20:49:08,639 - ERROR - Fatal error: no such table: filings
+2025-03-18 20:49:26,444 - INFO - Scraping holdings...
+2025-03-18 20:49:26,446 - INFO - Scraping holdings for filing 1 (Date: Q4 2024)
+2025-03-18 20:49:29,361 - INFO - Fetching API data from https://13f.info/data/13f/000200927525000002
+2025-03-18 20:49:32,145 - INFO - Inserted holding: 19260Q107
+2025-03-18 20:49:32,155 - INFO - Inserted holding: 009066101
+2025-03-18 20:49:32,166 - INFO - Inserted holding: 7085569QQ
+2025-03-18 20:49:32,177 - INFO - Inserted holding: 7382679BT
+2025-03-18 20:49:32,186 - INFO - Inserted holding: 009066101
+2025-03-18 20:49:32,198 - INFO - Inserted holding: 565394103
+2025-03-18 20:49:32,208 - INFO - Inserted holding: 00827B106
+2025-03-18 20:49:32,216 - INFO - Inserted holding: 594918104
+2025-03-18 20:49:32,224 - INFO - Inserted holding: 7100769FB
+2025-03-18 20:49:32,231 - INFO - Inserted holding: 00827B106
+2025-03-18 20:49:32,237 - INFO - Inserted holding: 023135106
+2025-03-18 20:49:32,246 - INFO - Inserted holding: 565394103
+2025-03-18 20:49:32,253 - INFO - Inserted holding: 64110L106
+2025-03-18 20:49:32,261 - INFO - Inserted holding: 77313F106
+2025-03-18 20:49:32,267 - INFO - Inserted holding: 18915M107
+2025-03-18 20:49:32,275 - INFO - Inserted holding: 25402D102
+2025-03-18 20:49:32,281 - INFO - Inserted holding: 00791N102
+2025-03-18 20:49:32,289 - INFO - Inserted holding: 00534A102
+2025-03-18 20:49:32,297 - INFO - Inserted holding: 55087P104
+2025-03-18 20:49:32,304 - INFO - Inserted holding: 231269309
+2025-03-18 20:49:32,312 - INFO - Inserted holding: 79466L302
+2025-03-18 20:49:32,319 - INFO - Inserted holding: 683712103
+2025-03-18 20:49:32,327 - INFO - Inserted holding: 81762P102
+2025-03-18 20:49:32,334 - INFO - Inserted holding: 594918104
+2025-03-18 20:49:32,341 - INFO - Inserted holding: 254687106
+2025-03-18 20:49:32,341 - INFO - Scraping holdings for filing 2 (Date: Q3 2024)
+2025-03-18 20:49:34,484 - INFO - Fetching API data from https://13f.info/data/13f/000200927524000005
+2025-03-18 20:49:37,796 - INFO - Inserted holding: 7100769FB
+2025-03-18 20:49:37,810 - INFO - Inserted holding: 009066101
+2025-03-18 20:49:37,818 - INFO - Inserted holding: 009066101
+2025-03-18 20:49:37,825 - INFO - Inserted holding: 79589L106
+2025-03-18 20:49:37,831 - INFO - Inserted holding: 79589L106
+2025-03-18 20:49:37,838 - INFO - Inserted holding: 565394103
+2025-03-18 20:49:37,845 - INFO - Inserted holding: 594918104
+2025-03-18 20:49:37,852 - INFO - Inserted holding: 594918104
+2025-03-18 20:49:37,859 - INFO - Inserted holding: 7100769FB
+2025-03-18 20:49:37,866 - INFO - Inserted holding: 00827B106
+2025-03-18 20:49:37,873 - INFO - Inserted holding: 79466L302
+2025-03-18 20:49:37,902 - INFO - Inserted holding: 00827B106
+2025-03-18 20:49:37,936 - INFO - Inserted holding: 770700102
+2025-03-18 20:49:37,969 - INFO - Inserted holding: 023135106
+2025-03-18 20:49:37,997 - INFO - Inserted holding: 565394103
+2025-03-18 20:49:38,010 - INFO - Inserted holding: 18915M107
+2025-03-18 20:49:38,021 - INFO - Inserted holding: 64110L106
+2025-03-18 20:49:38,030 - INFO - Inserted holding: 77313F106
+2025-03-18 20:49:38,040 - INFO - Inserted holding: 25402D102
+2025-03-18 20:49:38,049 - INFO - Inserted holding: 00534A102
+2025-03-18 20:49:38,060 - INFO - Inserted holding: 00791N110
+2025-03-18 20:49:38,070 - INFO - Inserted holding: 231269309
+2025-03-18 20:49:38,080 - INFO - Inserted holding: 55087P104
+2025-03-18 20:49:38,090 - INFO - Inserted holding: 683712103
+2025-03-18 20:49:38,099 - INFO - Inserted holding: 81762P102
+2025-03-18 20:49:38,137 - INFO - Inserted holding: 254687106
+2025-03-18 20:49:38,138 - INFO - Scraping holdings for filing 3 (Date: Q2 2024)
+2025-03-18 20:49:41,040 - INFO - Fetching API data from https://13f.info/data/13f/000200927524000004
+2025-03-18 20:49:43,834 - INFO - Inserted holding: 19260Q107
+2025-03-18 20:49:43,867 - INFO - Inserted holding: 19260Q107
+2025-03-18 20:49:43,891 - INFO - Inserted holding: 009066101
+2025-03-18 20:49:43,904 - INFO - Inserted holding: 009066101
+2025-03-18 20:49:43,914 - INFO - Inserted holding: 594918104
+2025-03-18 20:49:43,925 - INFO - Inserted holding: 00827B106
+2025-03-18 20:49:43,934 - INFO - Inserted holding: 00827B106
+2025-03-18 20:49:43,943 - INFO - Inserted holding: 594918104
+2025-03-18 20:49:43,951 - INFO - Inserted holding: 79466L302
+2025-03-18 20:49:43,961 - INFO - Inserted holding: 770700102
+2025-03-18 20:49:43,970 - INFO - Inserted holding: 023135106
+2025-03-18 20:49:43,980 - INFO - Inserted holding: 18915M107
+2025-03-18 20:49:43,988 - INFO - Inserted holding: 565394103
+2025-03-18 20:49:43,999 - INFO - Inserted holding: 64110L106
+2025-03-18 20:49:44,008 - INFO - Inserted holding: 77313F106
+2025-03-18 20:49:44,017 - INFO - Inserted holding: 25402D102
+2025-03-18 20:49:44,026 - INFO - Inserted holding: 00534A102
+2025-03-18 20:49:44,034 - INFO - Inserted holding: 79589L106
+2025-03-18 20:49:44,044 - INFO - Inserted holding: 00791N102
+2025-03-18 20:49:44,052 - INFO - Inserted holding: 231269309
+2025-03-18 20:49:44,061 - INFO - Inserted holding: 55087P104
+2025-03-18 20:49:44,069 - INFO - Inserted holding: 683712103
+2025-03-18 20:49:44,079 - INFO - Inserted holding: 81762P102
+2025-03-18 20:49:44,087 - INFO - Inserted holding: 254687106
+2025-03-18 20:49:44,087 - INFO - Scraping holdings for filing 6 (Date: Q4 2024)
+2025-03-18 20:49:47,016 - INFO - Fetching API data from https://13f.info/data/13f/000166773125000094
+2025-03-18 20:49:49,823 - INFO - Inserted holding: 88160R101
+2025-03-18 20:49:49,837 - INFO - Inserted holding: 594918104
+2025-03-18 20:49:49,846 - INFO - Inserted holding: 037833100
+2025-03-18 20:49:49,855 - INFO - Inserted holding: 11135F101
+2025-03-18 20:49:49,861 - INFO - Inserted holding: 67066G104
+2025-03-18 20:49:49,869 - INFO - Inserted holding: 532457108
+2025-03-18 20:49:49,876 - INFO - Inserted holding: 023135106
+2025-03-18 20:49:49,883 - INFO - Inserted holding: 20337X109
+2025-03-18 20:49:49,892 - INFO - Inserted holding: 302635206
+2025-03-18 20:49:49,898 - INFO - Inserted holding: 46625H100
+2025-03-18 20:49:49,906 - INFO - Inserted holding: 79466L302
+2025-03-18 20:49:49,913 - INFO - Inserted holding: 00790R104
+2025-03-18 20:49:49,920 - INFO - Inserted holding: 548661107
+2025-03-18 20:49:49,928 - INFO - Inserted holding: 92826C839
+2025-03-18 20:49:49,937 - INFO - Inserted holding: 14020Y201
+2025-03-18 20:49:49,946 - INFO - Inserted holding: H1467J104
+2025-03-18 20:49:49,955 - INFO - Inserted holding: 149123101
+2025-03-18 20:49:49,963 - INFO - Inserted holding: 863667101
+2025-03-18 20:49:49,971 - INFO - Inserted holding: 742718109
+2025-03-18 20:49:49,978 - INFO - Inserted holding: 931142103
+2025-03-18 20:49:49,985 - INFO - Inserted holding: 571748102
+2025-03-18 20:49:49,993 - INFO - Inserted holding: 89417E109
+2025-03-18 20:49:50,002 - INFO - Inserted holding: 126408103
+2025-03-18 20:49:50,009 - INFO - Inserted holding: 718172109
+2025-03-18 20:49:50,016 - INFO - Inserted holding: 64110L106
+2025-03-18 20:49:50,024 - INFO - Inserted holding: 478160104
+2025-03-18 20:49:50,032 - INFO - Inserted holding: 91324P102
+2025-03-18 20:49:50,039 - INFO - Inserted holding: 00287Y109
+2025-03-18 20:49:50,046 - INFO - Inserted holding: 438516106
+2025-03-18 20:49:50,052 - INFO - Inserted holding: 22160K105
+2025-03-18 20:49:50,058 - INFO - Inserted holding: 580135101
+2025-03-18 20:49:50,065 - INFO - Inserted holding: 20825C104
+2025-03-18 20:49:50,073 - INFO - Inserted holding: 191216100
+2025-03-18 20:49:50,079 - INFO - Inserted holding: 002824100
+2025-03-18 20:49:50,086 - INFO - Inserted holding: 21037T109
+2025-03-18 20:49:50,092 - INFO - Inserted holding: 26441C204
+2025-03-18 20:49:50,099 - INFO - Inserted holding: 04010L103
+2025-03-18 20:49:50,106 - INFO - Inserted holding: 718546104
+2025-03-18 20:49:50,113 - INFO - Inserted holding: 437076102
+2025-03-18 20:49:50,119 - INFO - Inserted holding: 235851102
+2025-03-18 20:49:50,126 - INFO - Inserted holding: 75513E101
+2025-03-18 20:49:50,133 - INFO - Inserted holding: 369604301
+2025-03-18 20:49:50,167 - INFO - Inserted holding: 666807102
+2025-03-18 20:49:50,184 - INFO - Inserted holding: 88579Y101
+2025-03-18 20:49:50,201 - INFO - Inserted holding: V7780T103
+2025-03-18 20:49:50,213 - INFO - Inserted holding: 368736104
+2025-03-18 20:49:50,222 - INFO - Inserted holding: 09290D101
+2025-03-18 20:49:50,230 - INFO - Inserted holding: 81762P102
+2025-03-18 20:49:50,238 - INFO - Inserted holding: 43300A203
+2025-03-18 20:49:50,244 - INFO - Inserted holding: 949746101
+2025-03-18 20:49:50,252 - INFO - Inserted holding: 617446448
+2025-03-18 20:49:50,258 - INFO - Inserted holding: 14448C104
+2025-03-18 20:49:50,265 - INFO - Inserted holding: 169656105
+2025-03-18 20:49:50,273 - INFO - Inserted holding: 816851109
+2025-03-18 20:49:50,280 - INFO - Inserted holding: 48251W104
+2025-03-18 20:49:50,288 - INFO - Inserted holding: 09260D107
+2025-03-18 20:49:50,295 - INFO - Inserted holding: 482480100
+2025-03-18 20:49:50,302 - INFO - Inserted holding: 375558103
+2025-03-18 20:49:50,310 - INFO - Inserted holding: 94106B101
+2025-03-18 20:49:50,317 - INFO - Inserted holding: 75886F107
+2025-03-18 20:49:50,325 - INFO - Inserted holding: 26875P101
+2025-03-18 20:49:50,331 - INFO - Inserted holding: 038222105
+2025-03-18 20:49:50,339 - INFO - Inserted holding: 95040Q104
+2025-03-18 20:49:50,347 - INFO - Inserted holding: 30231G102
+2025-03-18 20:49:50,390 - INFO - Inserted holding: 893641100
+2025-03-18 20:49:50,437 - INFO - Inserted holding: 70450Y103
+2025-03-18 20:49:50,470 - INFO - Inserted holding: 704326107
+2025-03-18 20:49:50,491 - INFO - Inserted holding: 988498101
+2025-03-18 20:49:50,510 - INFO - Inserted holding: 14040H105
+2025-03-18 20:49:50,524 - INFO - Inserted holding: 075887109
+2025-03-18 20:49:50,541 - INFO - Inserted holding: 49271V100
+2025-03-18 20:49:50,551 - INFO - Inserted holding: 218352102
+2025-03-18 20:49:50,559 - INFO - Inserted holding: 693475105
+2025-03-18 20:49:50,568 - INFO - Inserted holding: 237194105
+2025-03-18 20:49:50,576 - INFO - Inserted holding: 036752103
+2025-03-18 20:49:50,585 - INFO - Inserted holding: 254709108
+2025-03-18 20:49:50,595 - INFO - Inserted holding: 17275R102
+2025-03-18 20:49:50,604 - INFO - Inserted holding: 824348106
+2025-03-18 20:49:50,613 - INFO - Inserted holding: 00123Q104
+2025-03-18 20:49:50,621 - INFO - Inserted holding: 808513105
+2025-03-18 20:49:50,631 - INFO - Inserted holding: 896239100
+2025-03-18 20:49:50,639 - INFO - Inserted holding: 842587107
+2025-03-18 20:49:50,649 - INFO - Inserted holding: 37045V100
+2025-03-18 20:49:50,658 - INFO - Inserted holding: 45073V108
+2025-03-18 20:49:50,667 - INFO - Inserted holding: 29250N105
+2025-03-18 20:49:50,676 - INFO - Inserted holding: 035710839
+2025-03-18 20:49:50,684 - INFO - Inserted holding: 00288U106
+2025-03-18 20:49:50,685 - INFO - Scraping holdings for filing 7 (Date: Q3 2024)
+2025-03-18 20:49:52,810 - INFO - Fetching API data from https://13f.info/data/13f/000201689924000004
+2025-03-18 20:49:55,943 - INFO - Inserted holding: 594918104
+2025-03-18 20:49:55,951 - INFO - Inserted holding: 037833100
+2025-03-18 20:49:55,959 - INFO - Inserted holding: 88160R101
+2025-03-18 20:49:55,968 - INFO - Inserted holding: 532457108
+2025-03-18 20:49:55,976 - INFO - Inserted holding: 67066G104
+2025-03-18 20:49:55,985 - INFO - Inserted holding: 20337X109
+2025-03-18 20:49:55,992 - INFO - Inserted holding: 11135F101
+2025-03-18 20:49:55,999 - INFO - Inserted holding: 023135106
+2025-03-18 20:49:56,006 - INFO - Inserted holding: 46625H100
+2025-03-18 20:49:56,014 - INFO - Inserted holding: 302635206
+2025-03-18 20:49:56,021 - INFO - Inserted holding: 548661107
+2025-03-18 20:49:56,028 - INFO - Inserted holding: 79466L302
+2025-03-18 20:49:56,035 - INFO - Inserted holding: 14020Y201
+2025-03-18 20:49:56,041 - INFO - Inserted holding: 149123101
+2025-03-18 20:49:56,048 - INFO - Inserted holding: 92826C839
+2025-03-18 20:49:56,055 - INFO - Inserted holding: H1467J104
+2025-03-18 20:49:56,061 - INFO - Inserted holding: 863667101
+2025-03-18 20:49:56,069 - INFO - Inserted holding: 478160104
+2025-03-18 20:49:56,076 - INFO - Inserted holding: 742718109
+2025-03-18 20:49:56,083 - INFO - Inserted holding: 571748102
+2025-03-18 20:49:56,090 - INFO - Inserted holding: 718172109
+2025-03-18 20:49:56,097 - INFO - Inserted holding: 126408103
+2025-03-18 20:49:56,104 - INFO - Inserted holding: 00287Y109
+2025-03-18 20:49:56,110 - INFO - Inserted holding: 91324P102
+2025-03-18 20:49:56,117 - INFO - Inserted holding: 89417E109
+2025-03-18 20:49:56,124 - INFO - Inserted holding: 931142103
+2025-03-18 20:49:56,131 - INFO - Inserted holding: 002824100
+2025-03-18 20:49:56,138 - INFO - Inserted holding: 191216100
+2025-03-18 20:49:56,144 - INFO - Inserted holding: 21037T109
+2025-03-18 20:49:56,151 - INFO - Inserted holding: 438516106
+2025-03-18 20:49:56,158 - INFO - Inserted holding: 580135101
+2025-03-18 20:49:56,165 - INFO - Inserted holding: 20825C104
+2025-03-18 20:49:56,172 - INFO - Inserted holding: 64110L106
+2025-03-18 20:49:56,178 - INFO - Inserted holding: 22160K105
+2025-03-18 20:49:56,187 - INFO - Inserted holding: 235851102
+2025-03-18 20:49:56,193 - INFO - Inserted holding: 718546104
+2025-03-18 20:49:56,208 - INFO - Inserted holding: 437076102
+2025-03-18 20:49:56,240 - INFO - Inserted holding: 26441C204
+2025-03-18 20:49:56,272 - INFO - Inserted holding: 04010L103
+2025-03-18 20:49:56,304 - INFO - Inserted holding: 666807102
+2025-03-18 20:49:56,328 - INFO - Inserted holding: 88579Y101
+2025-03-18 20:49:56,438 - INFO - Inserted holding: 75513E101
+2025-03-18 20:49:56,460 - INFO - Inserted holding: 369604301
+2025-03-18 20:49:56,478 - INFO - Inserted holding: 166764100
+2025-03-18 20:49:56,491 - INFO - Inserted holding: 14448C104
+2025-03-18 20:49:56,502 - INFO - Inserted holding: 368736104
+2025-03-18 20:49:56,511 - INFO - Inserted holding: 482480100
+2025-03-18 20:49:56,522 - INFO - Inserted holding: 81762P102
+2025-03-18 20:49:56,530 - INFO - Inserted holding: 75886F107
+2025-03-18 20:49:56,540 - INFO - Inserted holding: 43300A203
+2025-03-18 20:49:56,550 - INFO - Inserted holding: 038222105
+2025-03-18 20:49:56,560 - INFO - Inserted holding: 169656105
+2025-03-18 20:49:56,569 - INFO - Inserted holding: 816851109
+2025-03-18 20:49:56,577 - INFO - Inserted holding: 693475105
+2025-03-18 20:49:56,588 - INFO - Inserted holding: V7780T103
+2025-03-18 20:49:56,597 - INFO - Inserted holding: 036752103
+2025-03-18 20:49:56,607 - INFO - Inserted holding: 94106B101
+2025-03-18 20:49:56,616 - INFO - Inserted holding: 949746101
+2025-03-18 20:49:56,625 - INFO - Inserted holding: 09260D107
+2025-03-18 20:49:56,635 - INFO - Inserted holding: 26875P101
+2025-03-18 20:49:56,644 - INFO - Inserted holding: 95040Q104
+2025-03-18 20:49:56,654 - INFO - Inserted holding: 30231G102
+2025-03-18 20:49:56,663 - INFO - Inserted holding: 893641100
+2025-03-18 20:49:56,673 - INFO - Inserted holding: 49271V100
+2025-03-18 20:49:56,682 - INFO - Inserted holding: 70450Y103
+2025-03-18 20:49:56,691 - INFO - Inserted holding: 617446448
+2025-03-18 20:49:56,700 - INFO - Inserted holding: 824348106
+2025-03-18 20:49:56,709 - INFO - Inserted holding: 00123Q104
+2025-03-18 20:49:56,717 - INFO - Inserted holding: 704326107
+2025-03-18 20:49:56,828 - INFO - Inserted holding: 48251W104
+2025-03-18 20:49:56,849 - INFO - Inserted holding: 218352102
+2025-03-18 20:49:56,865 - INFO - Inserted holding: 126650100
+2025-03-18 20:49:56,876 - INFO - Inserted holding: 842587107
+2025-03-18 20:49:56,884 - INFO - Inserted holding: 29250N105
+2025-03-18 20:49:56,895 - INFO - Inserted holding: 14040H105
+2025-03-18 20:49:56,905 - INFO - Inserted holding: 237194105
+2025-03-18 20:49:56,916 - INFO - Inserted holding: 988498101
+2025-03-18 20:49:56,926 - INFO - Inserted holding: 717081103
+2025-03-18 20:49:56,937 - INFO - Inserted holding: 808513105
+2025-03-18 20:49:56,946 - INFO - Inserted holding: 375558103
+2025-03-18 20:49:56,957 - INFO - Inserted holding: 17275R102
+2025-03-18 20:49:56,967 - INFO - Inserted holding: 45073V108
+2025-03-18 20:49:56,976 - INFO - Inserted holding: 035710839
+2025-03-18 20:49:56,986 - INFO - Inserted holding: 713448108
+2025-03-18 20:49:56,996 - INFO - Inserted holding: 406216101
+2025-03-18 20:49:57,006 - INFO - Inserted holding: 00288U106
+2025-03-18 20:49:57,006 - INFO - Scraping holdings for filing 8 (Date: Q2 2024)
+2025-03-18 20:49:59,127 - INFO - Fetching API data from https://13f.info/data/13f/000201689924000003
+2025-03-18 20:50:01,925 - INFO - Inserted holding: 594918104
+2025-03-18 20:50:01,936 - INFO - Inserted holding: 037833100
+2025-03-18 20:50:01,947 - INFO - Inserted holding: 532457108
+2025-03-18 20:50:01,957 - INFO - Inserted holding: 88160R101
+2025-03-18 20:50:01,965 - INFO - Inserted holding: 67066G104
+2025-03-18 20:50:01,973 - INFO - Inserted holding: 11135F101
+2025-03-18 20:50:01,980 - INFO - Inserted holding: 023135106
+2025-03-18 20:50:01,988 - INFO - Inserted holding: 46625H100
+2025-03-18 20:50:01,995 - INFO - Inserted holding: 302635206
+2025-03-18 20:50:02,002 - INFO - Inserted holding: 12135Y108
+2025-03-18 20:50:02,010 - INFO - Inserted holding: 14020Y201
+2025-03-18 20:50:02,017 - INFO - Inserted holding: 79466L302
+2025-03-18 20:50:02,023 - INFO - Inserted holding: 548661107
+2025-03-18 20:50:02,030 - INFO - Inserted holding: 553810102
+2025-03-18 20:50:02,036 - INFO - Inserted holding: 92826C839
+2025-03-18 20:50:02,044 - INFO - Inserted holding: 742718109
+2025-03-18 20:50:02,051 - INFO - Inserted holding: 478160104
+2025-03-18 20:50:02,058 - INFO - Inserted holding: 863667101
+2025-03-18 20:50:02,064 - INFO - Inserted holding: 149123101
+2025-03-18 20:50:02,070 - INFO - Inserted holding: H1467J104
+2025-03-18 20:50:02,078 - INFO - Inserted holding: 571748102
+2025-03-18 20:50:02,085 - INFO - Inserted holding: 126408103
+2025-03-18 20:50:02,093 - INFO - Inserted holding: 00287Y109
+2025-03-18 20:50:02,101 - INFO - Inserted holding: 89417E109
+2025-03-18 20:50:02,108 - INFO - Inserted holding: 91324P102
+2025-03-18 20:50:02,116 - INFO - Inserted holding: 718172109
+2025-03-18 20:50:02,125 - INFO - Inserted holding: 438516106
+2025-03-18 20:50:02,133 - INFO - Inserted holding: 931142103
+2025-03-18 20:50:02,140 - INFO - Inserted holding: 20825C104
+2025-03-18 20:50:02,148 - INFO - Inserted holding: 20337X109
+2025-03-18 20:50:02,156 - INFO - Inserted holding: 191216100
+2025-03-18 20:50:02,164 - INFO - Inserted holding: 718546104
+2025-03-18 20:50:02,171 - INFO - Inserted holding: 04010L103
+2025-03-18 20:50:02,180 - INFO - Inserted holding: 88579Y101
+2025-03-18 20:50:02,187 - INFO - Inserted holding: 458140100
+2025-03-18 20:50:02,195 - INFO - Inserted holding: 235851102
+2025-03-18 20:50:02,203 - INFO - Inserted holding: 166764100
+2025-03-18 20:50:02,210 - INFO - Inserted holding: 09247X101
+2025-03-18 20:50:02,218 - INFO - Inserted holding: 002824100
+2025-03-18 20:50:02,226 - INFO - Inserted holding: 580135101
+2025-03-18 20:50:02,234 - INFO - Inserted holding: 437076102
+2025-03-18 20:50:02,280 - INFO - Inserted holding: 21037T109
+2025-03-18 20:50:02,299 - INFO - Inserted holding: 26441C204
+2025-03-18 20:50:02,316 - INFO - Inserted holding: 666807102
+2025-03-18 20:50:02,330 - INFO - Inserted holding: 482480100
+2025-03-18 20:50:02,339 - INFO - Inserted holding: 75513E101
+2025-03-18 20:50:02,347 - INFO - Inserted holding: 038222105
+2025-03-18 20:50:02,355 - INFO - Inserted holding: 30231G102
+2025-03-18 20:50:02,363 - INFO - Inserted holding: 169656105
+2025-03-18 20:50:02,370 - INFO - Inserted holding: 254687106
+2025-03-18 20:50:02,378 - INFO - Inserted holding: 949746101
+2025-03-18 20:50:02,386 - INFO - Inserted holding: 717081103
+2025-03-18 20:50:02,393 - INFO - Inserted holding: 75886F107
+2025-03-18 20:50:02,400 - INFO - Inserted holding: 036752103
+2025-03-18 20:50:02,407 - INFO - Inserted holding: 81762P102
+2025-03-18 20:50:02,415 - INFO - Inserted holding: 12572Q105
+2025-03-18 20:50:02,422 - INFO - Inserted holding: 816851109
+2025-03-18 20:50:02,429 - INFO - Inserted holding: 94106B101
+2025-03-18 20:50:02,436 - INFO - Inserted holding: 14448C104
+2025-03-18 20:50:02,443 - INFO - Inserted holding: 43300A203
+2025-03-18 20:50:02,484 - INFO - Inserted holding: 369604301
+2025-03-18 20:50:02,524 - INFO - Inserted holding: 70450Y103
+2025-03-18 20:50:02,562 - INFO - Inserted holding: 64110L106
+2025-03-18 20:50:02,579 - INFO - Inserted holding: V7780T103
+2025-03-18 20:50:02,592 - INFO - Inserted holding: 302520101
+2025-03-18 20:50:02,604 - INFO - Inserted holding: 693475105
+2025-03-18 20:50:02,612 - INFO - Inserted holding: 49271V100
+2025-03-18 20:50:02,624 - INFO - Inserted holding: 808513105
+2025-03-18 20:50:02,634 - INFO - Inserted holding: 617446448
+2025-03-18 20:50:02,642 - INFO - Inserted holding: 95040Q104
+2025-03-18 20:50:02,651 - INFO - Inserted holding: 406216101
+2025-03-18 20:50:02,660 - INFO - Inserted holding: 713448108
+2025-03-18 20:50:02,670 - INFO - Inserted holding: 704326107
+2025-03-18 20:50:02,678 - INFO - Inserted holding: 14040H105
+2025-03-18 20:50:02,688 - INFO - Inserted holding: 15189T107
+2025-03-18 20:50:02,696 - INFO - Inserted holding: 48251W104
+2025-03-18 20:50:02,705 - INFO - Inserted holding: 126650100
+2025-03-18 20:50:02,713 - INFO - Inserted holding: 902973304
+2025-03-18 20:50:02,723 - INFO - Inserted holding: 22160K105
+2025-03-18 20:50:02,732 - INFO - Inserted holding: 31428X106
+2025-03-18 20:50:02,741 - INFO - Inserted holding: 988498101
+2025-03-18 20:50:02,750 - INFO - Inserted holding: 00288U106
+2025-03-18 20:50:02,750 - INFO - Scraping holdings for filing 11 (Date: Q4 2024)
+2025-03-18 20:50:04,868 - INFO - Fetching API data from https://13f.info/data/13f/000137647425000067
+2025-03-18 20:50:08,168 - INFO - Inserted holding: 594918104
+2025-03-18 20:50:08,176 - INFO - Inserted holding: 67066G104
+2025-03-18 20:50:08,184 - INFO - Inserted holding: 037833100
+2025-03-18 20:50:08,191 - INFO - Inserted holding: 023135106
+2025-03-18 20:50:08,202 - INFO - Inserted holding: 532457108
+2025-03-18 20:50:08,212 - INFO - Inserted holding: 11135F101
+2025-03-18 20:50:08,229 - INFO - Inserted holding: 101137107
+2025-03-18 20:50:08,272 - INFO - Inserted holding: 92826C839
+2025-03-18 20:50:08,312 - INFO - Inserted holding: 149123101
+2025-03-18 20:50:08,348 - INFO - Inserted holding: 863667101
+2025-03-18 20:50:08,369 - INFO - Inserted holding: 907818108
+2025-03-18 20:50:08,383 - INFO - Inserted holding: 64110L106
+2025-03-18 20:50:08,396 - INFO - Inserted holding: 79466L302
+2025-03-18 20:50:08,407 - INFO - Inserted holding: 81762P102
+2025-03-18 20:50:08,420 - INFO - Inserted holding: 126408103
+2025-03-18 20:50:08,432 - INFO - Inserted holding: 22160K105
+2025-03-18 20:50:08,443 - INFO - Inserted holding: 760759100
+2025-03-18 20:50:08,457 - INFO - Inserted holding: 713448108
+2025-03-18 20:50:08,470 - INFO - Inserted holding: 78409V104
+2025-03-18 20:50:08,482 - INFO - Inserted holding: 166764100
+2025-03-18 20:50:08,496 - INFO - Inserted holding: 29444U700
+2025-03-18 20:50:08,508 - INFO - Inserted holding: 437076102
+2025-03-18 20:50:08,522 - INFO - Inserted holding: 00724F101
+2025-03-18 20:50:08,534 - INFO - Inserted holding: 45866F104
+2025-03-18 20:50:08,584 - INFO - Inserted holding: 855244109
+2025-03-18 20:50:08,597 - INFO - Inserted holding: 67103H107
+2025-03-18 20:50:08,609 - INFO - Inserted holding: 697435105
+2025-03-18 20:50:08,621 - INFO - Inserted holding: 337738108
+2025-03-18 20:50:08,630 - INFO - Inserted holding: 038222105
+2025-03-18 20:50:08,643 - INFO - Inserted holding: 548661107
+2025-03-18 20:50:08,654 - INFO - Inserted holding: 007903107
+2025-03-18 20:50:08,663 - INFO - Inserted holding: 244199105
+2025-03-18 20:50:08,674 - INFO - Inserted holding: 127097103
+2025-03-18 20:50:08,688 - INFO - Inserted holding: 165167735
+2025-03-18 20:50:08,710 - INFO - Inserted holding: 631103108
+2025-03-18 20:50:08,725 - INFO - Inserted holding: 573874104
+2025-03-18 20:50:08,742 - INFO - Inserted holding: 81369Y852
+2025-03-18 20:50:08,754 - INFO - Inserted holding: 88160R101
+2025-03-18 20:50:08,789 - INFO - Inserted holding: 580135101
+2025-03-18 20:50:08,790 - INFO - Scraping holdings for filing 12 (Date: Q3 2024)
+2025-03-18 20:50:11,815 - INFO - Fetching API data from https://13f.info/data/13f/000137647424000602
+2025-03-18 20:50:13,928 - INFO - Inserted holding: 594918104
+2025-03-18 20:50:13,939 - INFO - Inserted holding: 037833100
+2025-03-18 20:50:13,949 - INFO - Inserted holding: 67066G104
+2025-03-18 20:50:13,958 - INFO - Inserted holding: 023135106
+2025-03-18 20:50:13,969 - INFO - Inserted holding: 532457108
+2025-03-18 20:50:13,981 - INFO - Inserted holding: 149123101
+2025-03-18 20:50:13,993 - INFO - Inserted holding: 101137107
+2025-03-18 20:50:14,003 - INFO - Inserted holding: 863667101
+2025-03-18 20:50:14,012 - INFO - Inserted holding: 92826C839
+2025-03-18 20:50:14,022 - INFO - Inserted holding: 907818108
+2025-03-18 20:50:14,030 - INFO - Inserted holding: 64110L106
+2025-03-18 20:50:14,041 - INFO - Inserted holding: 11135F101
+2025-03-18 20:50:14,050 - INFO - Inserted holding: 79466L302
+2025-03-18 20:50:14,059 - INFO - Inserted holding: 126408103
+2025-03-18 20:50:14,069 - INFO - Inserted holding: 81762P102
+2025-03-18 20:50:14,077 - INFO - Inserted holding: 22160K105
+2025-03-18 20:50:14,087 - INFO - Inserted holding: 437076102
+2025-03-18 20:50:14,095 - INFO - Inserted holding: 038222105
+2025-03-18 20:50:14,104 - INFO - Inserted holding: 760759100
+2025-03-18 20:50:14,112 - INFO - Inserted holding: 855244109
+2025-03-18 20:50:14,122 - INFO - Inserted holding: 166764100
+2025-03-18 20:50:14,130 - INFO - Inserted holding: 78409V104
+2025-03-18 20:50:14,139 - INFO - Inserted holding: 713448108
+2025-03-18 20:50:14,148 - INFO - Inserted holding: 00724F101
+2025-03-18 20:50:14,158 - INFO - Inserted holding: 29444U700
+2025-03-18 20:50:14,167 - INFO - Inserted holding: 45866F104
+2025-03-18 20:50:14,176 - INFO - Inserted holding: 007903107
+2025-03-18 20:50:14,205 - INFO - Inserted holding: 548661107
+2025-03-18 20:50:14,213 - INFO - Inserted holding: 67103H107
+2025-03-18 20:50:14,224 - INFO - Inserted holding: 697435105
+2025-03-18 20:50:14,234 - INFO - Inserted holding: 337738108
+2025-03-18 20:50:14,243 - INFO - Inserted holding: 244199105
+2025-03-18 20:50:14,252 - INFO - Inserted holding: 127097103
+2025-03-18 20:50:14,261 - INFO - Inserted holding: 165167735
+2025-03-18 20:50:14,271 - INFO - Inserted holding: 631103108
+2025-03-18 20:50:14,279 - INFO - Inserted holding: 573874104
+2025-03-18 20:50:14,288 - INFO - Inserted holding: 81369Y852
+2025-03-18 20:50:14,296 - INFO - Inserted holding: 580135101
+2025-03-18 20:50:14,296 - INFO - Scraping holdings for filing 13 (Date: Q2 2024)
+2025-03-18 20:50:17,166 - INFO - Fetching API data from https://13f.info/data/13f/000137647424000330
+2025-03-18 20:50:21,911 - INFO - Scraping holdings...
+2025-03-18 20:50:21,915 - INFO - Scraping holdings for filing 1 (Date: Q4 2024)
+2025-03-18 20:50:24,407 - INFO - Fetching API data from https://13f.info/data/13f/000200927525000002
+2025-03-18 20:50:26,535 - INFO - Inserted holding: 19260Q107
+2025-03-18 20:50:26,550 - INFO - Inserted holding: 009066101
+2025-03-18 20:50:26,559 - INFO - Inserted holding: 7085569QQ
+2025-03-18 20:50:26,568 - INFO - Inserted holding: 7382679BT
+2025-03-18 20:50:26,575 - INFO - Inserted holding: 009066101
+2025-03-18 20:50:26,582 - INFO - Inserted holding: 565394103
+2025-03-18 20:50:26,588 - INFO - Inserted holding: 00827B106
+2025-03-18 20:50:26,595 - INFO - Inserted holding: 594918104
+2025-03-18 20:50:26,602 - INFO - Inserted holding: 7100769FB
+2025-03-18 20:50:26,609 - INFO - Inserted holding: 00827B106
+2025-03-18 20:50:26,615 - INFO - Inserted holding: 023135106
+2025-03-18 20:50:26,622 - INFO - Inserted holding: 565394103
+2025-03-18 20:50:26,628 - INFO - Inserted holding: 64110L106
+2025-03-18 20:50:26,636 - INFO - Inserted holding: 77313F106
+2025-03-18 20:50:26,642 - INFO - Inserted holding: 18915M107
+2025-03-18 20:50:26,649 - INFO - Inserted holding: 25402D102
+2025-03-18 20:50:26,655 - INFO - Inserted holding: 00791N102
+2025-03-18 20:50:26,661 - INFO - Inserted holding: 00534A102
+2025-03-18 20:50:26,668 - INFO - Inserted holding: 55087P104
+2025-03-18 20:50:26,675 - INFO - Inserted holding: 231269309
+2025-03-18 20:50:26,682 - INFO - Inserted holding: 79466L302
+2025-03-18 20:50:26,688 - INFO - Inserted holding: 683712103
+2025-03-18 20:50:26,694 - INFO - Inserted holding: 81762P102
+2025-03-18 20:50:26,701 - INFO - Inserted holding: 594918104
+2025-03-18 20:50:26,707 - INFO - Inserted holding: 254687106
+2025-03-18 20:50:26,708 - INFO - Scraping holdings for filing 2 (Date: Q3 2024)
+2025-03-18 20:50:28,819 - INFO - Fetching API data from https://13f.info/data/13f/000200927524000005
+2025-03-18 20:50:31,609 - INFO - Inserted holding: 7100769FB
+2025-03-18 20:50:31,622 - INFO - Inserted holding: 009066101
+2025-03-18 20:50:31,631 - INFO - Inserted holding: 009066101
+2025-03-18 20:50:31,638 - INFO - Inserted holding: 79589L106
+2025-03-18 20:50:31,646 - INFO - Inserted holding: 79589L106
+2025-03-18 20:50:31,653 - INFO - Inserted holding: 565394103
+2025-03-18 20:50:31,660 - INFO - Inserted holding: 594918104
+2025-03-18 20:50:31,666 - INFO - Inserted holding: 594918104
+2025-03-18 20:50:31,673 - INFO - Inserted holding: 7100769FB
+2025-03-18 20:50:31,680 - INFO - Inserted holding: 00827B106
+2025-03-18 20:50:31,686 - INFO - Inserted holding: 79466L302
+2025-03-18 20:50:31,693 - INFO - Inserted holding: 00827B106
+2025-03-18 20:50:31,699 - INFO - Inserted holding: 770700102
+2025-03-18 20:50:31,706 - INFO - Inserted holding: 023135106
+2025-03-18 20:50:31,713 - INFO - Inserted holding: 565394103
+2025-03-18 20:50:31,719 - INFO - Inserted holding: 18915M107
+2025-03-18 20:50:31,725 - INFO - Inserted holding: 64110L106
+2025-03-18 20:50:31,732 - INFO - Inserted holding: 77313F106
+2025-03-18 20:50:31,738 - INFO - Inserted holding: 25402D102
+2025-03-18 20:50:31,745 - INFO - Inserted holding: 00534A102
+2025-03-18 20:50:31,751 - INFO - Inserted holding: 00791N110
+2025-03-18 20:50:31,757 - INFO - Inserted holding: 231269309
+2025-03-18 20:50:31,763 - INFO - Inserted holding: 55087P104
+2025-03-18 20:50:31,770 - INFO - Inserted holding: 683712103
+2025-03-18 20:50:31,776 - INFO - Inserted holding: 81762P102
+2025-03-18 20:50:31,783 - INFO - Inserted holding: 254687106
+2025-03-18 20:50:31,783 - INFO - Scraping holdings for filing 3 (Date: Q2 2024)
+2025-03-18 20:50:34,262 - INFO - Fetching API data from https://13f.info/data/13f/000200927524000004
+2025-03-18 20:50:36,741 - INFO - Inserted holding: 19260Q107
+2025-03-18 20:50:36,752 - INFO - Inserted holding: 19260Q107
+2025-03-18 20:50:36,761 - INFO - Inserted holding: 009066101
+2025-03-18 20:50:36,768 - INFO - Inserted holding: 009066101
+2025-03-18 20:50:36,775 - INFO - Inserted holding: 594918104
+2025-03-18 20:50:36,782 - INFO - Inserted holding: 00827B106
+2025-03-18 20:50:36,789 - INFO - Inserted holding: 00827B106
+2025-03-18 20:50:36,796 - INFO - Inserted holding: 594918104
+2025-03-18 20:50:36,803 - INFO - Inserted holding: 79466L302
+2025-03-18 20:50:36,815 - INFO - Inserted holding: 770700102
+2025-03-18 20:50:36,827 - INFO - Inserted holding: 023135106
+2025-03-18 20:50:36,834 - INFO - Inserted holding: 18915M107
+2025-03-18 20:50:36,841 - INFO - Inserted holding: 565394103
+2025-03-18 20:50:36,848 - INFO - Inserted holding: 64110L106
+2025-03-18 20:50:36,854 - INFO - Inserted holding: 77313F106
+2025-03-18 20:50:36,861 - INFO - Inserted holding: 25402D102
+2025-03-18 20:50:36,868 - INFO - Inserted holding: 00534A102
+2025-03-18 20:50:36,874 - INFO - Inserted holding: 79589L106
+2025-03-18 20:50:36,881 - INFO - Inserted holding: 00791N102
+2025-03-18 20:50:36,888 - INFO - Inserted holding: 231269309
+2025-03-18 20:50:36,895 - INFO - Inserted holding: 55087P104
+2025-03-18 20:50:36,902 - INFO - Inserted holding: 683712103
+2025-03-18 20:50:36,909 - INFO - Inserted holding: 81762P102
+2025-03-18 20:50:36,916 - INFO - Inserted holding: 254687106
+2025-03-18 20:50:36,916 - INFO - Scraping holdings for filing 4 (Date: Q1 2024)
+2025-03-18 20:50:40,584 - INFO - Fetching API data from https://13f.info/data/13f/000200927524000003
+2025-03-18 20:50:43,376 - INFO - Inserted holding: 19260Q107
+2025-03-18 20:50:43,385 - INFO - Inserted holding: 009066101
+2025-03-18 20:50:43,393 - INFO - Inserted holding: 09789C788
+2025-03-18 20:50:43,401 - INFO - Inserted holding: 55087P104
+2025-03-18 20:50:43,408 - INFO - Inserted holding: 594918104
+2025-03-18 20:50:43,415 - INFO - Inserted holding: 00827B106
+2025-03-18 20:50:43,423 - INFO - Inserted holding: 79466L302
+2025-03-18 20:50:43,430 - INFO - Inserted holding: 25402D102
+2025-03-18 20:50:43,437 - INFO - Inserted holding: 770700102
+2025-03-18 20:50:43,445 - INFO - Inserted holding: 023135106
+2025-03-18 20:50:43,452 - INFO - Inserted holding: 18915M107
+2025-03-18 20:50:43,459 - INFO - Inserted holding: 00534A102
+2025-03-18 20:50:43,466 - INFO - Inserted holding: 64110L106
+2025-03-18 20:50:43,473 - INFO - Inserted holding: 77313F106
+2025-03-18 20:50:43,480 - INFO - Inserted holding: 69553P100
+2025-03-18 20:50:43,487 - INFO - Inserted holding: 79589L106
+2025-03-18 20:50:43,495 - INFO - Inserted holding: 00791N110
+2025-03-18 20:50:43,502 - INFO - Inserted holding: 231269309
+2025-03-18 20:50:43,509 - INFO - Inserted holding: 55087P104
+2025-03-18 20:50:43,516 - INFO - Inserted holding: 683712103
+2025-03-18 20:50:43,523 - INFO - Inserted holding: 565394103
+2025-03-18 20:50:43,531 - INFO - Inserted holding: 81762P102
+2025-03-18 20:50:43,538 - INFO - Inserted holding: 254687106
+2025-03-18 20:50:43,538 - INFO - Scraping holdings for filing 5 (Date: Q4 2023)
+2025-03-18 20:50:46,436 - INFO - Fetching API data from https://13f.info/data/13f/000200927524000002
+2025-03-18 20:50:49,660 - INFO - Inserted holding: 19260Q107
+2025-03-18 20:50:49,671 - INFO - Inserted holding: 009066101
+2025-03-18 20:50:49,680 - INFO - Inserted holding: 009066101
+2025-03-18 20:50:49,686 - INFO - Inserted holding: 594918104
+2025-03-18 20:50:49,694 - INFO - Inserted holding: 79466L302
+2025-03-18 20:50:49,701 - INFO - Inserted holding: 79466L302
+2025-03-18 20:50:49,708 - INFO - Inserted holding: 594918104
+2025-03-18 20:50:49,714 - INFO - Inserted holding: 25402D102
+2025-03-18 20:50:49,721 - INFO - Inserted holding: 023135106
+2025-03-18 20:50:49,728 - INFO - Inserted holding: 770700102
+2025-03-18 20:50:49,734 - INFO - Inserted holding: 00827B106
+2025-03-18 20:50:49,741 - INFO - Inserted holding: 77313F106
+2025-03-18 20:50:49,748 - INFO - Inserted holding: 00534A102
+2025-03-18 20:50:49,754 - INFO - Inserted holding: 64110L106
+2025-03-18 20:50:49,761 - INFO - Inserted holding: 69553P100
+2025-03-18 20:50:49,767 - INFO - Inserted holding: 79589L106
+2025-03-18 20:50:49,774 - INFO - Inserted holding: 231269309
+2025-03-18 20:50:49,781 - INFO - Inserted holding: 00791N110
+2025-03-18 20:50:49,787 - INFO - Inserted holding: 848637104
+2025-03-18 20:50:49,794 - INFO - Inserted holding: 55087P104
+2025-03-18 20:50:49,801 - INFO - Inserted holding: 683712103
+2025-03-18 20:50:49,807 - INFO - Inserted holding: 81762P102
+2025-03-18 20:50:49,814 - INFO - Inserted holding: 254687106
+2025-03-18 20:50:49,814 - INFO - Scraping holdings for filing 6 (Date: Q4 2024)
+2025-03-18 20:50:52,302 - INFO - Fetching API data from https://13f.info/data/13f/000166773125000094
+2025-03-18 20:50:54,779 - INFO - Inserted holding: 88160R101
+2025-03-18 20:50:54,788 - INFO - Inserted holding: 594918104
+2025-03-18 20:50:54,795 - INFO - Inserted holding: 037833100
+2025-03-18 20:50:54,802 - INFO - Inserted holding: 11135F101
+2025-03-18 20:50:54,808 - INFO - Inserted holding: 67066G104
+2025-03-18 20:50:54,815 - INFO - Inserted holding: 532457108
+2025-03-18 20:50:54,822 - INFO - Inserted holding: 023135106
+2025-03-18 20:50:54,829 - INFO - Inserted holding: 20337X109
+2025-03-18 20:50:54,835 - INFO - Inserted holding: 302635206
+2025-03-18 20:50:54,841 - INFO - Inserted holding: 46625H100
+2025-03-18 20:50:54,847 - INFO - Inserted holding: 79466L302
+2025-03-18 20:50:54,854 - INFO - Inserted holding: 00790R104
+2025-03-18 20:50:54,875 - INFO - Inserted holding: 548661107
+2025-03-18 20:50:54,882 - INFO - Inserted holding: 92826C839
+2025-03-18 20:50:54,890 - INFO - Inserted holding: 14020Y201
+2025-03-18 20:50:54,897 - INFO - Inserted holding: H1467J104
+2025-03-18 20:50:54,904 - INFO - Inserted holding: 149123101
+2025-03-18 20:50:54,911 - INFO - Inserted holding: 863667101
+2025-03-18 20:50:54,918 - INFO - Inserted holding: 742718109
+2025-03-18 20:50:54,924 - INFO - Inserted holding: 931142103
+2025-03-18 20:50:54,931 - INFO - Inserted holding: 571748102
+2025-03-18 20:50:54,938 - INFO - Inserted holding: 89417E109
+2025-03-18 20:50:54,945 - INFO - Inserted holding: 126408103
+2025-03-18 20:50:54,951 - INFO - Inserted holding: 718172109
+2025-03-18 20:50:54,958 - INFO - Inserted holding: 64110L106
+2025-03-18 20:50:54,965 - INFO - Inserted holding: 478160104
+2025-03-18 20:50:54,971 - INFO - Inserted holding: 91324P102
+2025-03-18 20:50:54,978 - INFO - Inserted holding: 00287Y109
+2025-03-18 20:50:54,985 - INFO - Inserted holding: 438516106
+2025-03-18 20:50:54,992 - INFO - Inserted holding: 22160K105
+2025-03-18 20:50:54,998 - INFO - Inserted holding: 580135101
+2025-03-18 20:50:55,005 - INFO - Inserted holding: 20825C104
+2025-03-18 20:50:55,011 - INFO - Inserted holding: 191216100
+2025-03-18 20:50:55,018 - INFO - Inserted holding: 002824100
+2025-03-18 20:50:55,025 - INFO - Inserted holding: 21037T109
+2025-03-18 20:50:55,031 - INFO - Inserted holding: 26441C204
+2025-03-18 20:50:55,037 - INFO - Inserted holding: 04010L103
+2025-03-18 20:50:55,044 - INFO - Inserted holding: 718546104
+2025-03-18 20:50:55,051 - INFO - Inserted holding: 437076102
+2025-03-18 20:50:55,058 - INFO - Inserted holding: 235851102
+2025-03-18 20:50:55,065 - INFO - Inserted holding: 75513E101
+2025-03-18 20:50:55,071 - INFO - Inserted holding: 369604301
+2025-03-18 20:50:55,077 - INFO - Inserted holding: 666807102
+2025-03-18 20:50:55,084 - INFO - Inserted holding: 88579Y101
+2025-03-18 20:50:55,091 - INFO - Inserted holding: V7780T103
+2025-03-18 20:50:55,098 - INFO - Inserted holding: 368736104
+2025-03-18 20:50:55,105 - INFO - Inserted holding: 09290D101
+2025-03-18 20:50:55,145 - INFO - Inserted holding: 81762P102
+2025-03-18 20:50:55,154 - INFO - Inserted holding: 43300A203
+2025-03-18 20:50:55,163 - INFO - Inserted holding: 949746101
+2025-03-18 20:50:55,170 - INFO - Inserted holding: 617446448
+2025-03-18 20:50:55,177 - INFO - Inserted holding: 14448C104
+2025-03-18 20:50:55,184 - INFO - Inserted holding: 169656105
+2025-03-18 20:50:55,191 - INFO - Inserted holding: 816851109
+2025-03-18 20:50:55,197 - INFO - Inserted holding: 48251W104
+2025-03-18 20:50:55,203 - INFO - Inserted holding: 09260D107
+2025-03-18 20:50:55,210 - INFO - Inserted holding: 482480100
+2025-03-18 20:50:55,217 - INFO - Inserted holding: 375558103
+2025-03-18 20:50:55,224 - INFO - Inserted holding: 94106B101
+2025-03-18 20:50:55,230 - INFO - Inserted holding: 75886F107
+2025-03-18 20:50:55,237 - INFO - Inserted holding: 26875P101
+2025-03-18 20:50:55,243 - INFO - Inserted holding: 038222105
+2025-03-18 20:50:55,250 - INFO - Inserted holding: 95040Q104
+2025-03-18 20:50:55,257 - INFO - Inserted holding: 30231G102
+2025-03-18 20:50:55,263 - INFO - Inserted holding: 893641100
+2025-03-18 20:50:55,316 - INFO - Inserted holding: 70450Y103
+2025-03-18 20:50:55,354 - INFO - Inserted holding: 704326107
+2025-03-18 20:50:55,387 - INFO - Inserted holding: 988498101
+2025-03-18 20:50:55,404 - INFO - Inserted holding: 14040H105
+2025-03-18 20:50:55,415 - INFO - Inserted holding: 075887109
+2025-03-18 20:50:55,438 - INFO - Inserted holding: 49271V100
+2025-03-18 20:50:55,447 - INFO - Inserted holding: 218352102
+2025-03-18 20:50:55,463 - INFO - Inserted holding: 693475105
+2025-03-18 20:50:55,473 - INFO - Inserted holding: 237194105
+2025-03-18 20:50:55,481 - INFO - Inserted holding: 036752103
+2025-03-18 20:50:55,490 - INFO - Inserted holding: 254709108
+2025-03-18 20:50:55,499 - INFO - Inserted holding: 17275R102
+2025-03-18 20:50:55,508 - INFO - Inserted holding: 824348106
+2025-03-18 20:50:55,517 - INFO - Inserted holding: 00123Q104
+2025-03-18 20:50:55,525 - INFO - Inserted holding: 808513105
+2025-03-18 20:50:55,533 - INFO - Inserted holding: 896239100
+2025-03-18 20:50:55,543 - INFO - Inserted holding: 842587107
+2025-03-18 20:50:55,552 - INFO - Inserted holding: 37045V100
+2025-03-18 20:50:55,561 - INFO - Inserted holding: 45073V108
+2025-03-18 20:50:55,571 - INFO - Inserted holding: 29250N105
+2025-03-18 20:50:55,580 - INFO - Inserted holding: 035710839
+2025-03-18 20:50:55,589 - INFO - Inserted holding: 00288U106
+2025-03-18 20:50:55,589 - INFO - Scraping holdings for filing 7 (Date: Q3 2024)
+2025-03-18 20:50:57,699 - INFO - Fetching API data from https://13f.info/data/13f/000201689924000004
+2025-03-18 20:51:00,562 - INFO - Inserted holding: 594918104
+2025-03-18 20:51:00,577 - INFO - Inserted holding: 037833100
+2025-03-18 20:51:00,587 - INFO - Inserted holding: 88160R101
+2025-03-18 20:51:00,594 - INFO - Inserted holding: 532457108
+2025-03-18 20:51:00,601 - INFO - Inserted holding: 67066G104
+2025-03-18 20:51:00,608 - INFO - Inserted holding: 20337X109
+2025-03-18 20:51:00,615 - INFO - Inserted holding: 11135F101
+2025-03-18 20:51:00,622 - INFO - Inserted holding: 023135106
+2025-03-18 20:51:00,629 - INFO - Inserted holding: 46625H100
+2025-03-18 20:51:00,637 - INFO - Inserted holding: 302635206
+2025-03-18 20:51:00,644 - INFO - Inserted holding: 548661107
+2025-03-18 20:51:00,651 - INFO - Inserted holding: 79466L302
+2025-03-18 20:51:00,658 - INFO - Inserted holding: 14020Y201
+2025-03-18 20:51:00,666 - INFO - Inserted holding: 149123101
+2025-03-18 20:51:00,673 - INFO - Inserted holding: 92826C839
+2025-03-18 20:51:00,680 - INFO - Inserted holding: H1467J104
+2025-03-18 20:51:00,687 - INFO - Inserted holding: 863667101
+2025-03-18 20:51:00,695 - INFO - Inserted holding: 478160104
+2025-03-18 20:51:00,702 - INFO - Inserted holding: 742718109
+2025-03-18 20:51:00,710 - INFO - Inserted holding: 571748102
+2025-03-18 20:51:00,717 - INFO - Inserted holding: 718172109
+2025-03-18 20:51:00,724 - INFO - Inserted holding: 126408103
+2025-03-18 20:51:00,731 - INFO - Inserted holding: 00287Y109
+2025-03-18 20:51:00,739 - INFO - Inserted holding: 91324P102
+2025-03-18 20:51:00,746 - INFO - Inserted holding: 89417E109
+2025-03-18 20:51:00,754 - INFO - Inserted holding: 931142103
+2025-03-18 20:51:00,761 - INFO - Inserted holding: 002824100
+2025-03-18 20:51:00,769 - INFO - Inserted holding: 191216100
+2025-03-18 20:51:00,776 - INFO - Inserted holding: 21037T109
+2025-03-18 20:51:00,783 - INFO - Inserted holding: 438516106
+2025-03-18 20:51:00,791 - INFO - Inserted holding: 580135101
+2025-03-18 20:51:00,798 - INFO - Inserted holding: 20825C104
+2025-03-18 20:51:00,806 - INFO - Inserted holding: 64110L106
+2025-03-18 20:51:00,812 - INFO - Inserted holding: 22160K105
+2025-03-18 20:51:00,831 - INFO - Inserted holding: 235851102
+2025-03-18 20:51:00,864 - INFO - Inserted holding: 718546104
+2025-03-18 20:51:00,896 - INFO - Inserted holding: 437076102
+2025-03-18 20:51:00,931 - INFO - Inserted holding: 26441C204
+2025-03-18 20:51:01,065 - INFO - Inserted holding: 04010L103
+2025-03-18 20:51:01,079 - INFO - Inserted holding: 666807102
+2025-03-18 20:51:01,089 - INFO - Inserted holding: 88579Y101
+2025-03-18 20:51:01,099 - INFO - Inserted holding: 75513E101
+2025-03-18 20:51:01,109 - INFO - Inserted holding: 369604301
+2025-03-18 20:51:01,119 - INFO - Inserted holding: 166764100
+2025-03-18 20:51:01,130 - INFO - Inserted holding: 14448C104
+2025-03-18 20:51:01,139 - INFO - Inserted holding: 368736104
+2025-03-18 20:51:01,148 - INFO - Inserted holding: 482480100
+2025-03-18 20:51:01,157 - INFO - Inserted holding: 81762P102
+2025-03-18 20:51:01,169 - INFO - Inserted holding: 75886F107
+2025-03-18 20:51:01,178 - INFO - Inserted holding: 43300A203
+2025-03-18 20:51:01,187 - INFO - Inserted holding: 038222105
+2025-03-18 20:51:01,196 - INFO - Inserted holding: 169656105
+2025-03-18 20:51:01,206 - INFO - Inserted holding: 816851109
+2025-03-18 20:51:01,215 - INFO - Inserted holding: 693475105
+2025-03-18 20:51:01,224 - INFO - Inserted holding: V7780T103
+2025-03-18 20:51:01,233 - INFO - Inserted holding: 036752103
+2025-03-18 20:51:01,242 - INFO - Inserted holding: 94106B101
+2025-03-18 20:51:01,251 - INFO - Inserted holding: 949746101
+2025-03-18 20:51:01,260 - INFO - Inserted holding: 09260D107
+2025-03-18 20:51:01,268 - INFO - Inserted holding: 26875P101
+2025-03-18 20:51:01,278 - INFO - Inserted holding: 95040Q104
+2025-03-18 20:51:01,287 - INFO - Inserted holding: 30231G102
+2025-03-18 20:51:01,296 - INFO - Inserted holding: 893641100
+2025-03-18 20:51:01,305 - INFO - Inserted holding: 49271V100
+2025-03-18 20:51:01,313 - INFO - Inserted holding: 70450Y103
+2025-03-18 20:51:01,322 - INFO - Inserted holding: 617446448
+2025-03-18 20:51:01,331 - INFO - Inserted holding: 824348106
+2025-03-18 20:51:01,342 - INFO - Inserted holding: 00123Q104
+2025-03-18 20:51:01,351 - INFO - Inserted holding: 704326107
+2025-03-18 20:51:01,388 - INFO - Inserted holding: 48251W104
+2025-03-18 20:51:01,417 - INFO - Inserted holding: 218352102
+2025-03-18 20:51:01,452 - INFO - Inserted holding: 126650100
+2025-03-18 20:51:01,478 - INFO - Inserted holding: 842587107
+2025-03-18 20:51:01,489 - INFO - Inserted holding: 29250N105
+2025-03-18 20:51:01,498 - INFO - Inserted holding: 14040H105
+2025-03-18 20:51:01,507 - INFO - Inserted holding: 237194105
+2025-03-18 20:51:01,517 - INFO - Inserted holding: 988498101
+2025-03-18 20:51:01,526 - INFO - Inserted holding: 717081103
+2025-03-18 20:51:01,537 - INFO - Inserted holding: 808513105
+2025-03-18 20:51:01,548 - INFO - Inserted holding: 375558103
+2025-03-18 20:51:01,557 - INFO - Inserted holding: 17275R102
+2025-03-18 20:51:01,566 - INFO - Inserted holding: 45073V108
+2025-03-18 20:51:01,575 - INFO - Inserted holding: 035710839
+2025-03-18 20:51:01,586 - INFO - Inserted holding: 713448108
+2025-03-18 20:51:01,595 - INFO - Inserted holding: 406216101
+2025-03-18 20:51:01,604 - INFO - Inserted holding: 00288U106
+2025-03-18 20:51:01,604 - INFO - Scraping holdings for filing 8 (Date: Q2 2024)
+2025-03-18 20:51:03,715 - INFO - Fetching API data from https://13f.info/data/13f/000201689924000003
+2025-03-18 20:51:06,825 - INFO - Inserted holding: 594918104
+2025-03-18 20:51:06,834 - INFO - Inserted holding: 037833100
+2025-03-18 20:51:06,843 - INFO - Inserted holding: 532457108
+2025-03-18 20:51:06,851 - INFO - Inserted holding: 88160R101
+2025-03-18 20:51:06,858 - INFO - Inserted holding: 67066G104
+2025-03-18 20:51:06,865 - INFO - Inserted holding: 11135F101
+2025-03-18 20:51:06,871 - INFO - Inserted holding: 023135106
+2025-03-18 20:51:06,878 - INFO - Inserted holding: 46625H100
+2025-03-18 20:51:06,885 - INFO - Inserted holding: 302635206
+2025-03-18 20:51:06,891 - INFO - Inserted holding: 12135Y108
+2025-03-18 20:51:06,899 - INFO - Inserted holding: 14020Y201
+2025-03-18 20:51:06,905 - INFO - Inserted holding: 79466L302
+2025-03-18 20:51:06,912 - INFO - Inserted holding: 548661107
+2025-03-18 20:51:06,919 - INFO - Inserted holding: 553810102
+2025-03-18 20:51:06,925 - INFO - Inserted holding: 92826C839
+2025-03-18 20:51:06,932 - INFO - Inserted holding: 742718109
+2025-03-18 20:51:06,940 - INFO - Inserted holding: 478160104
+2025-03-18 20:51:06,946 - INFO - Inserted holding: 863667101
+2025-03-18 20:51:06,953 - INFO - Inserted holding: 149123101
+2025-03-18 20:51:06,960 - INFO - Inserted holding: H1467J104
+2025-03-18 20:51:06,967 - INFO - Inserted holding: 571748102
+2025-03-18 20:51:06,974 - INFO - Inserted holding: 126408103
+2025-03-18 20:51:06,982 - INFO - Inserted holding: 00287Y109
+2025-03-18 20:51:06,990 - INFO - Inserted holding: 89417E109
+2025-03-18 20:51:06,997 - INFO - Inserted holding: 91324P102
+2025-03-18 20:51:07,005 - INFO - Inserted holding: 718172109
+2025-03-18 20:51:07,013 - INFO - Inserted holding: 438516106
+2025-03-18 20:51:07,021 - INFO - Inserted holding: 931142103
+2025-03-18 20:51:07,029 - INFO - Inserted holding: 20825C104
+2025-03-18 20:51:07,037 - INFO - Inserted holding: 20337X109
+2025-03-18 20:51:07,046 - INFO - Inserted holding: 191216100
+2025-03-18 20:51:07,056 - INFO - Inserted holding: 718546104
+2025-03-18 20:51:07,064 - INFO - Inserted holding: 04010L103
+2025-03-18 20:51:07,072 - INFO - Inserted holding: 88579Y101
+2025-03-18 20:51:07,080 - INFO - Inserted holding: 458140100
+2025-03-18 20:51:07,088 - INFO - Inserted holding: 235851102
+2025-03-18 20:51:07,097 - INFO - Inserted holding: 166764100
+2025-03-18 20:51:07,105 - INFO - Inserted holding: 09247X101
+2025-03-18 20:51:07,113 - INFO - Inserted holding: 002824100
+2025-03-18 20:51:07,120 - INFO - Inserted holding: 580135101
+2025-03-18 20:51:07,128 - INFO - Inserted holding: 437076102
+2025-03-18 20:51:07,135 - INFO - Inserted holding: 21037T109
+2025-03-18 20:51:07,142 - INFO - Inserted holding: 26441C204
+2025-03-18 20:51:07,178 - INFO - Inserted holding: 666807102
+2025-03-18 20:51:07,186 - INFO - Inserted holding: 482480100
+2025-03-18 20:51:07,194 - INFO - Inserted holding: 75513E101
+2025-03-18 20:51:07,202 - INFO - Inserted holding: 038222105
+2025-03-18 20:51:07,209 - INFO - Inserted holding: 30231G102
+2025-03-18 20:51:07,217 - INFO - Inserted holding: 169656105
+2025-03-18 20:51:07,225 - INFO - Inserted holding: 254687106
+2025-03-18 20:51:07,234 - INFO - Inserted holding: 949746101
+2025-03-18 20:51:07,242 - INFO - Inserted holding: 717081103
+2025-03-18 20:51:07,249 - INFO - Inserted holding: 75886F107
+2025-03-18 20:51:07,258 - INFO - Inserted holding: 036752103
+2025-03-18 20:51:07,266 - INFO - Inserted holding: 81762P102
+2025-03-18 20:51:07,273 - INFO - Inserted holding: 12572Q105
+2025-03-18 20:51:07,281 - INFO - Inserted holding: 816851109
+2025-03-18 20:51:07,287 - INFO - Inserted holding: 94106B101
+2025-03-18 20:51:07,294 - INFO - Inserted holding: 14448C104
+2025-03-18 20:51:07,301 - INFO - Inserted holding: 43300A203
+2025-03-18 20:51:07,309 - INFO - Inserted holding: 369604301
+2025-03-18 20:51:07,316 - INFO - Inserted holding: 70450Y103
+2025-03-18 20:51:07,323 - INFO - Inserted holding: 64110L106
+2025-03-18 20:51:07,329 - INFO - Inserted holding: V7780T103
+2025-03-18 20:51:07,338 - INFO - Inserted holding: 302520101
+2025-03-18 20:51:07,346 - INFO - Inserted holding: 693475105
+2025-03-18 20:51:07,362 - INFO - Inserted holding: 49271V100
+2025-03-18 20:51:07,399 - INFO - Inserted holding: 808513105
+2025-03-18 20:51:07,471 - INFO - Inserted holding: 617446448
+2025-03-18 20:51:07,480 - INFO - Inserted holding: 95040Q104
+2025-03-18 20:51:07,492 - INFO - Inserted holding: 406216101
+2025-03-18 20:51:07,502 - INFO - Inserted holding: 713448108
+2025-03-18 20:51:07,514 - INFO - Inserted holding: 704326107
+2025-03-18 20:51:07,529 - INFO - Inserted holding: 14040H105
+2025-03-18 20:51:07,540 - INFO - Inserted holding: 15189T107
+2025-03-18 20:51:07,552 - INFO - Inserted holding: 48251W104
+2025-03-18 20:51:07,564 - INFO - Inserted holding: 126650100
+2025-03-18 20:51:07,579 - INFO - Inserted holding: 902973304
+2025-03-18 20:51:07,591 - INFO - Inserted holding: 22160K105
+2025-03-18 20:51:07,599 - INFO - Inserted holding: 31428X106
+2025-03-18 20:51:07,610 - INFO - Inserted holding: 988498101
+2025-03-18 20:51:07,621 - INFO - Inserted holding: 00288U106
+2025-03-18 20:51:07,621 - INFO - Scraping holdings for filing 9 (Date: Q1 2024)
+2025-03-18 20:51:10,516 - INFO - Fetching API data from https://13f.info/data/13f/000201689924000002
+2025-03-18 20:51:13,290 - INFO - Inserted holding: 594918104
+2025-03-18 20:51:13,301 - INFO - Inserted holding: 88160R101
+2025-03-18 20:51:13,308 - INFO - Inserted holding: 037833100
+2025-03-18 20:51:13,316 - INFO - Inserted holding: 532457108
+2025-03-18 20:51:13,323 - INFO - Inserted holding: 67066G104
+2025-03-18 20:51:13,330 - INFO - Inserted holding: 11135F101
+2025-03-18 20:51:13,337 - INFO - Inserted holding: 023135106
+2025-03-18 20:51:13,345 - INFO - Inserted holding: 46625H100
+2025-03-18 20:51:13,352 - INFO - Inserted holding: 79466L302
+2025-03-18 20:51:13,360 - INFO - Inserted holding: 548661107
+2025-03-18 20:51:13,367 - INFO - Inserted holding: 86606G101
+2025-03-18 20:51:13,375 - INFO - Inserted holding: 553810102
+2025-03-18 20:51:13,382 - INFO - Inserted holding: 478160104
+2025-03-18 20:51:13,390 - INFO - Inserted holding: 302635206
+2025-03-18 20:51:13,397 - INFO - Inserted holding: 92826C839
+2025-03-18 20:51:13,404 - INFO - Inserted holding: 863667101
+2025-03-18 20:51:13,412 - INFO - Inserted holding: 149123101
+2025-03-18 20:51:13,419 - INFO - Inserted holding: H1467J104
+2025-03-18 20:51:13,427 - INFO - Inserted holding: 571748102
+2025-03-18 20:51:13,434 - INFO - Inserted holding: 742718109
+2025-03-18 20:51:13,441 - INFO - Inserted holding: 91324P102
+2025-03-18 20:51:13,450 - INFO - Inserted holding: 89417E109
+2025-03-18 20:51:13,456 - INFO - Inserted holding: 126408103
+2025-03-18 20:51:13,465 - INFO - Inserted holding: 458140100
+2025-03-18 20:51:13,472 - INFO - Inserted holding: 20825C104
+2025-03-18 20:51:13,481 - INFO - Inserted holding: 00287Y109
+2025-03-18 20:51:13,488 - INFO - Inserted holding: 438516106
+2025-03-18 20:51:13,495 - INFO - Inserted holding: 718172109
+2025-03-18 20:51:13,503 - INFO - Inserted holding: 718546104
+2025-03-18 20:51:13,510 - INFO - Inserted holding: 166764100
+2025-03-18 20:51:13,517 - INFO - Inserted holding: 254687106
+2025-03-18 20:51:13,525 - INFO - Inserted holding: 20337X109
+2025-03-18 20:51:13,532 - INFO - Inserted holding: 002824100
+2025-03-18 20:51:13,539 - INFO - Inserted holding: 437076102
+2025-03-18 20:51:13,547 - INFO - Inserted holding: 88579Y101
+2025-03-18 20:51:13,555 - INFO - Inserted holding: 931142103
+2025-03-18 20:51:13,562 - INFO - Inserted holding: 09247X101
+2025-03-18 20:51:13,569 - INFO - Inserted holding: 666807102
+2025-03-18 20:51:13,577 - INFO - Inserted holding: 21037T109
+2025-03-18 20:51:13,590 - INFO - Inserted holding: 235851102
+2025-03-18 20:51:13,624 - INFO - Inserted holding: 191216100
+2025-03-18 20:51:13,658 - INFO - Inserted holding: 580135101
+2025-03-18 20:51:13,695 - INFO - Inserted holding: 75513E101
+2025-03-18 20:51:13,723 - INFO - Inserted holding: 26441C204
+2025-03-18 20:51:13,735 - INFO - Inserted holding: 169656105
+2025-03-18 20:51:13,745 - INFO - Inserted holding: 482480100
+2025-03-18 20:51:13,757 - INFO - Inserted holding: 949746101
+2025-03-18 20:51:13,767 - INFO - Inserted holding: 036752103
+2025-03-18 20:51:13,778 - INFO - Inserted holding: 693475105
+2025-03-18 20:51:13,788 - INFO - Inserted holding: 70450Y103
+2025-03-18 20:51:13,797 - INFO - Inserted holding: 12572Q105
+2025-03-18 20:51:13,808 - INFO - Inserted holding: 81762P102
+2025-03-18 20:51:13,816 - INFO - Inserted holding: 94106B101
+2025-03-18 20:51:13,825 - INFO - Inserted holding: 369604301
+2025-03-18 20:51:13,833 - INFO - Inserted holding: 988498101
+2025-03-18 20:51:13,843 - INFO - Inserted holding: 04010L103
+2025-03-18 20:51:13,852 - INFO - Inserted holding: 038222105
+2025-03-18 20:51:13,862 - INFO - Inserted holding: 717081103
+2025-03-18 20:51:13,872 - INFO - Inserted holding: 713448108
+2025-03-18 20:51:13,881 - INFO - Inserted holding: 816851109
+2025-03-18 20:51:13,890 - INFO - Inserted holding: 126650100
+2025-03-18 20:51:13,899 - INFO - Inserted holding: 43300A203
+2025-03-18 20:51:13,908 - INFO - Inserted holding: 808513105
+2025-03-18 20:51:13,917 - INFO - Inserted holding: 75886F107
+2025-03-18 20:51:13,928 - INFO - Inserted holding: 302520101
+2025-03-18 20:51:13,938 - INFO - Inserted holding: 14448C104
+2025-03-18 20:51:13,947 - INFO - Inserted holding: 110122108
+2025-03-18 20:51:13,957 - INFO - Inserted holding: 902973304
+2025-03-18 20:51:13,965 - INFO - Inserted holding: 64110L106
+2025-03-18 20:51:13,974 - INFO - Inserted holding: 617446448
+2025-03-18 20:51:13,983 - INFO - Inserted holding: 14040H105
+2025-03-18 20:51:13,993 - INFO - Inserted holding: 824348106
+2025-03-18 20:51:14,002 - INFO - Inserted holding: 237194105
+2025-03-18 20:51:14,011 - INFO - Inserted holding: 150870103
+2025-03-18 20:51:14,020 - INFO - Inserted holding: 48251W104
+2025-03-18 20:51:14,029 - INFO - Inserted holding: 45073V108
+2025-03-18 20:51:14,037 - INFO - Inserted holding: 29250N105
+2025-03-18 20:51:14,046 - INFO - Inserted holding: 15189T107
+2025-03-18 20:51:14,055 - INFO - Inserted holding: 00288U106
+2025-03-18 20:51:14,055 - INFO - Scraping holdings for filing 10 (Date: Q4 2023)
+2025-03-18 20:51:17,679 - INFO - Fetching API data from https://13f.info/data/13f/000201689924000001
+2025-03-18 20:51:20,445 - INFO - Inserted holding: 86606G101
+2025-03-18 20:51:20,454 - INFO - Inserted holding: 553810102
+2025-03-18 20:51:20,464 - INFO - Inserted holding: 20337X109
+2025-03-18 20:51:20,472 - INFO - Inserted holding: 302635206
+2025-03-18 20:51:20,483 - INFO - Inserted holding: 594918104
+2025-03-18 20:51:20,492 - INFO - Inserted holding: 532457108
+2025-03-18 20:51:20,501 - INFO - Inserted holding: 037833100
+2025-03-18 20:51:20,510 - INFO - Inserted holding: 04010L103
+2025-03-18 20:51:20,519 - INFO - Inserted holding: 023135106
+2025-03-18 20:51:20,537 - INFO - Inserted holding: 302520101
+2025-03-18 20:51:20,546 - INFO - Inserted holding: 617446448
+2025-03-18 20:51:20,554 - INFO - Inserted holding: 00288U106
+2025-03-18 20:51:20,555 - INFO - Scraping holdings for filing 11 (Date: Q4 2024)
+2025-03-18 20:51:22,655 - INFO - Fetching API data from https://13f.info/data/13f/000137647425000067
+2025-03-18 20:51:24,783 - INFO - Inserted holding: 594918104
+2025-03-18 20:51:24,801 - INFO - Inserted holding: 67066G104
+2025-03-18 20:51:24,814 - INFO - Inserted holding: 037833100
+2025-03-18 20:51:24,824 - INFO - Inserted holding: 023135106
+2025-03-18 20:51:24,833 - INFO - Inserted holding: 532457108
+2025-03-18 20:51:24,840 - INFO - Inserted holding: 11135F101
+2025-03-18 20:51:24,847 - INFO - Inserted holding: 101137107
+2025-03-18 20:51:24,854 - INFO - Inserted holding: 92826C839
+2025-03-18 20:51:24,861 - INFO - Inserted holding: 149123101
+2025-03-18 20:51:24,867 - INFO - Inserted holding: 863667101
+2025-03-18 20:51:24,874 - INFO - Inserted holding: 907818108
+2025-03-18 20:51:24,880 - INFO - Inserted holding: 64110L106
+2025-03-18 20:51:24,888 - INFO - Inserted holding: 79466L302
+2025-03-18 20:51:24,906 - INFO - Inserted holding: 81762P102
+2025-03-18 20:51:24,938 - INFO - Inserted holding: 126408103
+2025-03-18 20:51:24,971 - INFO - Inserted holding: 22160K105
+2025-03-18 20:51:25,006 - INFO - Inserted holding: 760759100
+2025-03-18 20:51:25,040 - INFO - Inserted holding: 713448108
+2025-03-18 20:51:25,053 - INFO - Inserted holding: 78409V104
+2025-03-18 20:51:25,063 - INFO - Inserted holding: 166764100
+2025-03-18 20:51:25,073 - INFO - Inserted holding: 29444U700
+2025-03-18 20:51:25,083 - INFO - Inserted holding: 437076102
+2025-03-18 20:51:25,094 - INFO - Inserted holding: 00724F101
+2025-03-18 20:51:25,104 - INFO - Inserted holding: 45866F104
+2025-03-18 20:51:25,115 - INFO - Inserted holding: 855244109
+2025-03-18 20:51:25,127 - INFO - Inserted holding: 67103H107
+2025-03-18 20:51:25,136 - INFO - Inserted holding: 697435105
+2025-03-18 20:51:25,145 - INFO - Inserted holding: 337738108
+2025-03-18 20:51:25,155 - INFO - Inserted holding: 038222105
+2025-03-18 20:51:25,163 - INFO - Inserted holding: 548661107
+2025-03-18 20:51:25,173 - INFO - Inserted holding: 007903107
+2025-03-18 20:51:25,182 - INFO - Inserted holding: 244199105
+2025-03-18 20:51:25,191 - INFO - Inserted holding: 127097103
+2025-03-18 20:51:25,201 - INFO - Inserted holding: 165167735
+2025-03-18 20:51:25,211 - INFO - Inserted holding: 631103108
+2025-03-18 20:51:25,220 - INFO - Inserted holding: 573874104
+2025-03-18 20:51:25,228 - INFO - Inserted holding: 81369Y852
+2025-03-18 20:51:25,237 - INFO - Inserted holding: 88160R101
+2025-03-18 20:51:25,246 - INFO - Inserted holding: 580135101
+2025-03-18 20:51:25,246 - INFO - Scraping holdings for filing 12 (Date: Q3 2024)
+2025-03-18 20:51:27,701 - INFO - Fetching API data from https://13f.info/data/13f/000137647424000602
+2025-03-18 20:51:29,851 - INFO - Inserted holding: 594918104
+2025-03-18 20:51:29,861 - INFO - Inserted holding: 037833100
+2025-03-18 20:51:29,869 - INFO - Inserted holding: 67066G104
+2025-03-18 20:51:29,876 - INFO - Inserted holding: 023135106
+2025-03-18 20:51:29,883 - INFO - Inserted holding: 532457108
+2025-03-18 20:51:29,890 - INFO - Inserted holding: 149123101
+2025-03-18 20:51:29,897 - INFO - Inserted holding: 101137107
+2025-03-18 20:51:29,904 - INFO - Inserted holding: 863667101
+2025-03-18 20:51:29,911 - INFO - Inserted holding: 92826C839
+2025-03-18 20:51:29,917 - INFO - Inserted holding: 907818108
+2025-03-18 20:51:29,924 - INFO - Inserted holding: 64110L106
+2025-03-18 20:51:29,931 - INFO - Inserted holding: 11135F101
+2025-03-18 20:51:29,939 - INFO - Inserted holding: 79466L302
+2025-03-18 20:51:29,945 - INFO - Inserted holding: 126408103
+2025-03-18 20:51:29,952 - INFO - Inserted holding: 81762P102
+2025-03-18 20:51:29,958 - INFO - Inserted holding: 22160K105
+2025-03-18 20:51:29,965 - INFO - Inserted holding: 437076102
+2025-03-18 20:51:29,972 - INFO - Inserted holding: 038222105
+2025-03-18 20:51:29,978 - INFO - Inserted holding: 760759100
+2025-03-18 20:51:29,984 - INFO - Inserted holding: 855244109
+2025-03-18 20:51:29,991 - INFO - Inserted holding: 166764100
+2025-03-18 20:51:29,998 - INFO - Inserted holding: 78409V104
+2025-03-18 20:51:30,015 - INFO - Inserted holding: 713448108
+2025-03-18 20:51:30,048 - INFO - Inserted holding: 00724F101
+2025-03-18 20:51:30,082 - INFO - Inserted holding: 29444U700
+2025-03-18 20:51:30,115 - INFO - Inserted holding: 45866F104
+2025-03-18 20:51:30,138 - INFO - Inserted holding: 007903107
+2025-03-18 20:51:30,150 - INFO - Inserted holding: 548661107
+2025-03-18 20:51:30,159 - INFO - Inserted holding: 67103H107
+2025-03-18 20:51:30,169 - INFO - Inserted holding: 697435105
+2025-03-18 20:51:30,211 - INFO - Inserted holding: 337738108
+2025-03-18 20:51:30,220 - INFO - Inserted holding: 244199105
+2025-03-18 20:51:30,228 - INFO - Inserted holding: 127097103
+2025-03-18 20:51:30,237 - INFO - Inserted holding: 165167735
+2025-03-18 20:51:30,245 - INFO - Inserted holding: 631103108
+2025-03-18 20:51:30,253 - INFO - Inserted holding: 573874104
+2025-03-18 20:51:30,261 - INFO - Inserted holding: 81369Y852
+2025-03-18 20:51:30,269 - INFO - Inserted holding: 580135101
+2025-03-18 20:51:30,269 - INFO - Scraping holdings for filing 13 (Date: Q2 2024)
+2025-03-18 20:51:32,894 - INFO - Fetching API data from https://13f.info/data/13f/000137647424000330
+2025-03-18 20:51:36,175 - INFO - Inserted holding: 023135106
+2025-03-18 20:51:36,186 - INFO - Inserted holding: 46625H100
+2025-03-18 20:51:36,196 - INFO - Inserted holding: 594918104
+2025-03-18 20:51:36,206 - INFO - Inserted holding: 631103108
+2025-03-18 20:51:36,215 - INFO - Inserted holding: 573874104
+2025-03-18 20:51:36,226 - INFO - Inserted holding: 037833100
+2025-03-18 20:51:36,236 - INFO - Inserted holding: 097023105
+2025-03-18 20:51:36,246 - INFO - Inserted holding: 172967424
+2025-03-18 20:51:36,256 - INFO - Inserted holding: 67066G104
+2025-03-18 20:51:36,264 - INFO - Inserted holding: 254687106
+2025-03-18 20:51:36,275 - INFO - Inserted holding: 532457108
+2025-03-18 20:51:36,284 - INFO - Inserted holding: 83088M102
+2025-03-18 20:51:36,295 - INFO - Inserted holding: 149123101
+2025-03-18 20:51:36,303 - INFO - Inserted holding: 74736K101
+2025-03-18 20:51:36,312 - INFO - Inserted holding: 101137107
+2025-03-18 20:51:36,320 - INFO - Inserted holding: 92826C839
+2025-03-18 20:51:36,328 - INFO - Inserted holding: 863667101
+2025-03-18 20:51:36,337 - INFO - Inserted holding: 907818108
+2025-03-18 20:51:36,346 - INFO - Inserted holding: 458140100
+2025-03-18 20:51:36,354 - INFO - Inserted holding: 79466L302
+2025-03-18 20:51:36,363 - INFO - Inserted holding: 37940X102
+2025-03-18 20:51:36,372 - INFO - Inserted holding: 126408103
+2025-03-18 20:51:36,381 - INFO - Inserted holding: 81762P102
+2025-03-18 20:51:36,390 - INFO - Inserted holding: 038222105
+2025-03-18 20:51:36,398 - INFO - Inserted holding: 64110L106
+2025-03-18 20:51:36,407 - INFO - Inserted holding: 760759100
+2025-03-18 20:51:36,416 - INFO - Inserted holding: 166764100
+2025-03-18 20:51:36,426 - INFO - Inserted holding: 22160K105
+2025-03-18 20:51:36,434 - INFO - Inserted holding: 00724F101
+2025-03-18 20:51:36,443 - INFO - Inserted holding: 713448108
+2025-03-18 20:51:36,451 - INFO - Inserted holding: 437076102
+2025-03-18 20:51:36,460 - INFO - Inserted holding: 78409V104
+2025-03-18 20:51:36,469 - INFO - Inserted holding: 11135F101
+2025-03-18 20:51:36,510 - INFO - Inserted holding: 500754106
+2025-03-18 20:51:36,528 - INFO - Inserted holding: 45866F104
+2025-03-18 20:51:36,539 - INFO - Inserted holding: 29444U700
+2025-03-18 20:51:36,549 - INFO - Inserted holding: 855244109
+2025-03-18 20:51:36,558 - INFO - Inserted holding: 697435105
+2025-03-18 20:51:36,567 - INFO - Inserted holding: 007903107
+2025-03-18 20:51:36,586 - INFO - Inserted holding: 67103H107
+2025-03-18 20:51:36,619 - INFO - Inserted holding: 548661107
+2025-03-18 20:51:36,660 - INFO - Inserted holding: 337738108
+2025-03-18 20:51:36,683 - INFO - Inserted holding: 127097103
+2025-03-18 20:51:36,695 - INFO - Inserted holding: 244199105
+2025-03-18 20:51:36,703 - INFO - Inserted holding: 165167735
+2025-03-18 20:51:36,712 - INFO - Inserted holding: 013091103
+2025-03-18 20:51:36,722 - INFO - Inserted holding: 580135101
+2025-03-18 20:51:36,730 - INFO - Inserted holding: 81369Y852
+2025-03-18 20:51:36,731 - INFO - Scraping holdings for filing 14 (Date: Q1 2024)
+2025-03-18 20:51:40,311 - INFO - Fetching API data from https://13f.info/data/13f/000137647424000221
+2025-03-18 20:51:43,418 - INFO - Inserted holding: 023135106
+2025-03-18 20:51:43,428 - INFO - Inserted holding: 631103108
+2025-03-18 20:51:43,435 - INFO - Inserted holding: 46625H100
+2025-03-18 20:51:43,442 - INFO - Inserted holding: 573874104
+2025-03-18 20:51:43,450 - INFO - Inserted holding: 37940X102
+2025-03-18 20:51:43,456 - INFO - Inserted holding: 594918104
+2025-03-18 20:51:43,463 - INFO - Inserted holding: 097023105
+2025-03-18 20:51:43,471 - INFO - Inserted holding: 254687106
+2025-03-18 20:51:43,478 - INFO - Inserted holding: 037833100
+2025-03-18 20:51:43,484 - INFO - Inserted holding: 172967424
+2025-03-18 20:51:43,491 - INFO - Inserted holding: 458140100
+2025-03-18 20:51:43,498 - INFO - Inserted holding: 149123101
+2025-03-18 20:51:43,504 - INFO - Inserted holding: 83088M102
+2025-03-18 20:51:43,510 - INFO - Inserted holding: 532457108
+2025-03-18 20:51:43,517 - INFO - Inserted holding: 92826C839
+2025-03-18 20:51:43,523 - INFO - Inserted holding: 74736K101
+2025-03-18 20:51:43,530 - INFO - Inserted holding: 126408103
+2025-03-18 20:51:43,537 - INFO - Inserted holding: 907818108
+2025-03-18 20:51:43,544 - INFO - Inserted holding: 101137107
+2025-03-18 20:51:43,550 - INFO - Inserted holding: 45866F104
+2025-03-18 20:51:43,557 - INFO - Inserted holding: 863667101
+2025-03-18 20:51:43,565 - INFO - Inserted holding: 79466L302
+2025-03-18 20:51:43,571 - INFO - Inserted holding: 038222105
+2025-03-18 20:51:43,578 - INFO - Inserted holding: 500754106
+2025-03-18 20:51:43,584 - INFO - Inserted holding: 437076102
+2025-03-18 20:51:43,590 - INFO - Inserted holding: 760759100
+2025-03-18 20:51:43,597 - INFO - Inserted holding: 81762P102
+2025-03-18 20:51:43,603 - INFO - Inserted holding: 22160K105
+2025-03-18 20:51:43,611 - INFO - Inserted holding: 166764100
+2025-03-18 20:51:43,618 - INFO - Inserted holding: 713448108
+2025-03-18 20:51:43,624 - INFO - Inserted holding: 00724F101
+2025-03-18 20:51:43,632 - INFO - Inserted holding: 007903107
+2025-03-18 20:51:43,639 - INFO - Inserted holding: 64110L106
+2025-03-18 20:51:43,646 - INFO - Inserted holding: 697435105
+2025-03-18 20:51:43,653 - INFO - Inserted holding: 855244109
+2025-03-18 20:51:43,660 - INFO - Inserted holding: 78409V104
+2025-03-18 20:51:43,668 - INFO - Inserted holding: 67103H107
+2025-03-18 20:51:43,675 - INFO - Inserted holding: 29444U700
+2025-03-18 20:51:43,682 - INFO - Inserted holding: 548661107
+2025-03-18 20:51:43,697 - INFO - Inserted holding: 127097103
+2025-03-18 20:51:43,732 - INFO - Inserted holding: 67066G104
+2025-03-18 20:51:43,768 - INFO - Inserted holding: 165167735
+2025-03-18 20:51:43,802 - INFO - Inserted holding: 244199105
+2025-03-18 20:51:43,832 - INFO - Inserted holding: 013091103
+2025-03-18 20:51:43,844 - INFO - Inserted holding: 580135101
+2025-03-18 20:51:43,855 - INFO - Inserted holding: 444859102
+2025-03-18 20:51:43,856 - INFO - Scraping holdings for filing 15 (Date: Q4 2023)
+2025-03-18 20:51:46,631 - INFO - Fetching API data from https://13f.info/data/13f/000137647424000091
+2025-03-18 20:51:49,130 - INFO - Inserted holding: 79466L302
+2025-03-18 20:51:49,145 - INFO - Inserted holding: 631103108
+2025-03-18 20:51:49,156 - INFO - Inserted holding: 097023105
+2025-03-18 20:51:49,164 - INFO - Inserted holding: 37940X102
+2025-03-18 20:51:49,171 - INFO - Inserted holding: 573874104
+2025-03-18 20:51:49,178 - INFO - Inserted holding: 023135106
+2025-03-18 20:51:49,185 - INFO - Inserted holding: 46625H100
+2025-03-18 20:51:49,192 - INFO - Inserted holding: 458140100
+2025-03-18 20:51:49,199 - INFO - Inserted holding: 594918104
+2025-03-18 20:51:49,205 - INFO - Inserted holding: 037833100
+2025-03-18 20:51:49,213 - INFO - Inserted holding: 149123101
+2025-03-18 20:51:49,220 - INFO - Inserted holding: 92826C839
+2025-03-18 20:51:49,227 - INFO - Inserted holding: 437076102
+2025-03-18 20:51:49,233 - INFO - Inserted holding: 254687106
+2025-03-18 20:51:49,240 - INFO - Inserted holding: 45866F104
+2025-03-18 20:51:49,247 - INFO - Inserted holding: 83088M102
+2025-03-18 20:51:49,253 - INFO - Inserted holding: 172967424
+2025-03-18 20:51:49,261 - INFO - Inserted holding: 444859102
+2025-03-18 20:51:49,268 - INFO - Inserted holding: 038222105
+2025-03-18 20:51:49,274 - INFO - Inserted holding: 74736K101
+2025-03-18 20:51:49,282 - INFO - Inserted holding: 907818108
+2025-03-18 20:51:49,288 - INFO - Inserted holding: 007903107
+2025-03-18 20:51:49,296 - INFO - Inserted holding: 126408103
+2025-03-18 20:51:49,302 - INFO - Inserted holding: 500754106
+2025-03-18 20:51:49,309 - INFO - Inserted holding: 166764100
+2025-03-18 20:51:49,316 - INFO - Inserted holding: 863667101
+2025-03-18 20:51:49,323 - INFO - Inserted holding: 760759100
+2025-03-18 20:51:49,330 - INFO - Inserted holding: 81762P102
+2025-03-18 20:51:49,337 - INFO - Inserted holding: 713448108
+2025-03-18 20:51:49,343 - INFO - Inserted holding: 22160K105
+2025-03-18 20:51:49,350 - INFO - Inserted holding: 00724F101
+2025-03-18 20:51:49,357 - INFO - Inserted holding: 697435105
+2025-03-18 20:51:49,364 - INFO - Inserted holding: 101137107
+2025-03-18 20:51:49,370 - INFO - Inserted holding: 127097103
+2025-03-18 20:51:49,377 - INFO - Inserted holding: 165167735
+2025-03-18 20:51:49,384 - INFO - Inserted holding: 013091103
+2025-03-18 20:51:49,396 - INFO - Inserted holding: 747525103
+2025-03-18 20:51:49,430 - INFO - Inserted holding: 580135101
+2025-03-18 20:51:49,465 - INFO - Inserted holding: 00287Y109
+2025-03-18 20:51:49,503 - INFO - Inserted holding: 032654105
+2025-03-18 20:51:49,609 - INFO - Inserted holding: 548661107
+2025-03-18 20:51:49,610 - INFO - Scraping holdings for filing 16 (Date: Q3 2023)
+2025-03-18 20:51:53,239 - INFO - Fetching API data from https://13f.info/data/13f/000137647423000481
+2025-03-18 20:51:55,714 - INFO - Inserted holding: 097023105
+2025-03-18 20:51:55,726 - INFO - Inserted holding: 79466L302
+2025-03-18 20:51:55,735 - INFO - Inserted holding: 631103108
+2025-03-18 20:51:55,744 - INFO - Inserted holding: 37940X102
+2025-03-18 20:51:55,750 - INFO - Inserted holding: 573874104
+2025-03-18 20:51:55,758 - INFO - Inserted holding: 46625H100
+2025-03-18 20:51:55,765 - INFO - Inserted holding: 023135106
+2025-03-18 20:51:55,773 - INFO - Inserted holding: 149123101
+2025-03-18 20:51:55,779 - INFO - Inserted holding: 458140100
+2025-03-18 20:51:55,786 - INFO - Inserted holding: 254687106
+2025-03-18 20:51:55,793 - INFO - Inserted holding: 037833100
+2025-03-18 20:51:55,800 - INFO - Inserted holding: 594918104
+2025-03-18 20:51:55,808 - INFO - Inserted holding: 172967424
+2025-03-18 20:51:55,815 - INFO - Inserted holding: 83088M102
+2025-03-18 20:51:55,822 - INFO - Inserted holding: 437076102
+2025-03-18 20:51:55,829 - INFO - Inserted holding: 907818108
+2025-03-18 20:51:55,837 - INFO - Inserted holding: 444859102
+2025-03-18 20:51:55,844 - INFO - Inserted holding: H1467J104
+2025-03-18 20:51:55,850 - INFO - Inserted holding: 92826C839
+2025-03-18 20:51:55,858 - INFO - Inserted holding: 74736K101
+2025-03-18 20:51:55,864 - INFO - Inserted holding: 038222105
+2025-03-18 20:51:55,871 - INFO - Inserted holding: 127097103
+2025-03-18 20:51:55,879 - INFO - Inserted holding: 38141G104
+2025-03-18 20:51:55,887 - INFO - Inserted holding: 05550J101
+2025-03-18 20:51:55,894 - INFO - Inserted holding: 45866F104
+2025-03-18 20:51:55,901 - INFO - Inserted holding: 126408103
+2025-03-18 20:51:55,908 - INFO - Inserted holding: 500754106
+2025-03-18 20:51:55,915 - INFO - Inserted holding: 747525103
+2025-03-18 20:51:55,922 - INFO - Inserted holding: 688239201
+2025-03-18 20:51:55,929 - INFO - Inserted holding: 007903107
+2025-03-18 20:51:55,936 - INFO - Inserted holding: 013091103
+2025-03-18 20:51:55,943 - INFO - Inserted holding: 00287Y109
+2025-03-18 20:51:55,950 - INFO - Inserted holding: 291011104
+2025-03-18 20:51:55,958 - INFO - Inserted holding: 580135101
+2025-03-18 20:51:55,965 - INFO - Inserted holding: 166764100
+2025-03-18 20:51:55,972 - INFO - Inserted holding: 165167735
+2025-03-18 20:51:55,986 - INFO - Inserted holding: 032654105
+2025-03-18 20:51:56,019 - INFO - Inserted holding: 548661107
+2025-03-18 20:51:56,053 - INFO - Inserted holding: 760759100
+2025-03-18 20:51:56,086 - INFO - Inserted holding: 020002101
+2025-03-18 20:51:56,117 - INFO - Inserted holding: 651639106
+2025-03-18 20:51:56,129 - INFO - Inserted holding: 713448108
+2025-03-18 20:51:56,130 - INFO - Scraping holdings for filing 17 (Date: Q2 2023)
+2025-03-18 20:51:59,548 - INFO - Fetching API data from https://13f.info/data/13f/000137647423000390
+2025-03-18 20:52:02,632 - INFO - Inserted holding: 92826C839
+2025-03-18 20:52:02,643 - INFO - Inserted holding: 097023105
+2025-03-18 20:52:02,652 - INFO - Inserted holding: 573874104
+2025-03-18 20:52:02,661 - INFO - Inserted holding: 79466L302
+2025-03-18 20:52:02,668 - INFO - Inserted holding: 631103108
+2025-03-18 20:52:02,676 - INFO - Inserted holding: 46625H100
+2025-03-18 20:52:02,683 - INFO - Inserted holding: 37940X102
+2025-03-18 20:52:02,691 - INFO - Inserted holding: 037833100
+2025-03-18 20:52:02,697 - INFO - Inserted holding: 594918104
+2025-03-18 20:52:02,704 - INFO - Inserted holding: 149123101
+2025-03-18 20:52:02,710 - INFO - Inserted holding: 437076102
+2025-03-18 20:52:02,717 - INFO - Inserted holding: 907818108
+2025-03-18 20:52:02,723 - INFO - Inserted holding: 038222105
+2025-03-18 20:52:02,730 - INFO - Inserted holding: 023135106
+2025-03-18 20:52:02,736 - INFO - Inserted holding: H1467J104
+2025-03-18 20:52:02,743 - INFO - Inserted holding: 254687106
+2025-03-18 20:52:02,749 - INFO - Inserted holding: 172967424
+2025-03-18 20:52:02,757 - INFO - Inserted holding: 83088M102
+2025-03-18 20:52:02,763 - INFO - Inserted holding: 458140100
+2025-03-18 20:52:02,771 - INFO - Inserted holding: 500754106
+2025-03-18 20:52:02,777 - INFO - Inserted holding: 74736K101
+2025-03-18 20:52:02,784 - INFO - Inserted holding: 38141G104
+2025-03-18 20:52:02,791 - INFO - Inserted holding: 89832Q109
+2025-03-18 20:52:02,798 - INFO - Inserted holding: 126408103
+2025-03-18 20:52:02,804 - INFO - Inserted holding: 747525103
+2025-03-18 20:52:02,811 - INFO - Inserted holding: 127097103
+2025-03-18 20:52:02,818 - INFO - Inserted holding: 05550J101
+2025-03-18 20:52:02,825 - INFO - Inserted holding: 007903107
+2025-03-18 20:52:02,831 - INFO - Inserted holding: 688239201
+2025-03-18 20:52:02,838 - INFO - Inserted holding: 013091103
+2025-03-18 20:52:02,844 - INFO - Inserted holding: 580135101
+2025-03-18 20:52:02,851 - INFO - Inserted holding: 291011104
+2025-03-18 20:52:02,858 - INFO - Inserted holding: 00287Y109
+2025-03-18 20:52:02,864 - INFO - Inserted holding: 032654105
+2025-03-18 20:52:02,872 - INFO - Inserted holding: 548661107
+2025-03-18 20:52:02,879 - INFO - Inserted holding: 760759100
+2025-03-18 20:52:02,886 - INFO - Inserted holding: 165167735
+2025-03-18 20:52:02,909 - INFO - Inserted holding: 651639106
+2025-03-18 20:52:02,942 - INFO - Inserted holding: 166764100
+2025-03-18 20:52:02,979 - INFO - Inserted holding: 020002101
+2025-03-18 20:52:02,980 - INFO - Scraping holdings for filing 18 (Date: Q1 2023)
+2025-03-18 20:52:05,430 - INFO - Fetching API data from https://13f.info/data/13f/000137647423000265
+2025-03-18 20:52:08,528 - INFO - Inserted holding: 46625H100
+2025-03-18 20:52:08,543 - INFO - Inserted holding: 92826C839
+2025-03-18 20:52:08,554 - INFO - Inserted holding: 097023105
+2025-03-18 20:52:08,563 - INFO - Inserted holding: 79466L302
+2025-03-18 20:52:08,572 - INFO - Inserted holding: 631103108
+2025-03-18 20:52:08,579 - INFO - Inserted holding: 573874104
+2025-03-18 20:52:08,587 - INFO - Inserted holding: 37940X102
+2025-03-18 20:52:08,594 - INFO - Inserted holding: 037833100
+2025-03-18 20:52:08,600 - INFO - Inserted holding: 594918104
+2025-03-18 20:52:08,607 - INFO - Inserted holding: 038222105
+2025-03-18 20:52:08,614 - INFO - Inserted holding: 254687106
+2025-03-18 20:52:08,621 - INFO - Inserted holding: 149123101
+2025-03-18 20:52:08,628 - INFO - Inserted holding: 437076102
+2025-03-18 20:52:08,635 - INFO - Inserted holding: 38141G104
+2025-03-18 20:52:08,642 - INFO - Inserted holding: 83088M102
+2025-03-18 20:52:08,649 - INFO - Inserted holding: 172967424
+2025-03-18 20:52:08,656 - INFO - Inserted holding: 907818108
+2025-03-18 20:52:08,663 - INFO - Inserted holding: H1467J104
+2025-03-18 20:52:08,670 - INFO - Inserted holding: 444859102
+2025-03-18 20:52:08,677 - INFO - Inserted holding: 458140100
+2025-03-18 20:52:08,684 - INFO - Inserted holding: 023135106
+2025-03-18 20:52:08,691 - INFO - Inserted holding: 500754106
+2025-03-18 20:52:08,699 - INFO - Inserted holding: 007903107
+2025-03-18 20:52:08,706 - INFO - Inserted holding: 74736K101
+2025-03-18 20:52:08,712 - INFO - Inserted holding: 747525103
+2025-03-18 20:52:08,721 - INFO - Inserted holding: 126408103
+2025-03-18 20:52:08,728 - INFO - Inserted holding: 127097103
+2025-03-18 20:52:08,745 - INFO - Inserted holding: 05550J101
+2025-03-18 20:52:08,779 - INFO - Inserted holding: 89832Q109
+2025-03-18 20:52:08,813 - INFO - Inserted holding: 688239201
+2025-03-18 20:52:08,846 - INFO - Inserted holding: 013091103
+2025-03-18 20:52:08,864 - INFO - Inserted holding: 580135101
+2025-03-18 20:52:08,875 - INFO - Inserted holding: 00287Y109
+2025-03-18 20:52:08,885 - INFO - Inserted holding: 032654105
+2025-03-18 20:52:08,895 - INFO - Inserted holding: 291011104
+2025-03-18 20:52:08,903 - INFO - Inserted holding: 760759100
+2025-03-18 20:52:08,913 - INFO - Inserted holding: 166764100
+2025-03-18 20:52:08,921 - INFO - Inserted holding: 548661107
+2025-03-18 20:52:08,930 - INFO - Inserted holding: 651639106
+2025-03-18 20:52:08,938 - INFO - Inserted holding: 020002101
+2025-03-18 20:52:08,948 - INFO - Inserted holding: 165167735
+2025-03-18 20:52:08,949 - INFO - Scraping holdings for filing 19 (Date: Q4 2022)
+2025-03-18 20:54:59,067 - INFO - Scraping holdings...
+2025-03-18 20:54:59,072 - INFO - Scraping holdings for filing 1
+2025-03-18 20:55:01,072 - INFO - Scraping holdings for filing 2
+2025-03-18 20:55:03,073 - INFO - Scraping holdings for filing 3
+2025-03-18 20:55:05,073 - INFO - Scraping holdings for filing 4
+2025-03-18 20:55:07,074 - INFO - Scraping holdings for filing 5
+2025-03-18 20:55:09,074 - INFO - Scraping holdings for filing 6

@@ -181,13 +181,32 @@ def scrape_filings(delay):
         except Exception as e:
             logger.error(f"Filing scrape error: {e}")
 
+import re
+
+import re
+from urllib.parse import urljoin
+from bs4 import BeautifulSoup
+
+def parse_quarter_date(quarter_date):
+    """Convert quarter date string (e.g., 'Q1 2024') to a tuple (year, quarter) for comparison."""
+    match = re.match(r'Q([1-4]) (\d{4})', quarter_date)
+    if match:
+        quarter, year = int(match.group(1)), int(match.group(2))
+        return (year, quarter)
+    return None
+
 def scrape_holdings(delay):
-    """Scrape holdings from dynamic API endpoint"""
+    """Scrape holdings from dynamic API endpoint, filtering filings after Q1 2024."""
+    
+    # Fetch filings with quarter_date
     filings = db_execute(
-        # Fix table name from 'filing' to 'filings'
-        "SELECT id, filing_url FROM filing WHERE form_type = '13F-HR'",
+        "SELECT id, filing_url, quarter_date FROM filing WHERE form_type = '13F-HR'",
         fetch=True
     )
+
+    # Define the minimum quarter date for filtering (Q1 2024)
+    min_date = (2014, 1)
+
     COLUMN_MAP = [
         'sym',          # Index 0
         'issuer_name',  # Index 1
@@ -199,34 +218,40 @@ def scrape_holdings(delay):
         'principal',    # Index 7 (usually null)
         'option_type'   # Index 8
     ]
-    for filing_id, filing_url in filings:
+
+    for filing_id, filing_url, quarter_date in filings:
+        parsed_date = parse_quarter_date(quarter_date)
+
+        # Skip filings before or equal to Q1 2024
+        if parsed_date and parsed_date <= min_date:
+            continue
+
         try:
-            logger.info(f"Scraping holdings for filing {filing_id}")
+            logger.info(f"Scraping holdings for filing {filing_id} (Date: {quarter_date})")
             response = fetch_url(filing_url, delay)
             soup = BeautifulSoup(response.text, 'html.parser')
-            
+
             # Find the table with API data reference
             table = soup.find('table', {'id': 'filingAggregated'})
             if not table:
                 logger.warning(f"No holdings table found in {filing_url}")
                 continue
-            
 
             data_url = table.get('data-url')
             if not data_url:
                 logger.warning("No data-url attribute found in table")
                 continue
-                
+
             # Build full API URL
             api_url = urljoin(SITE_BASE_URL, data_url)
             logger.info(f"Fetching API data from {api_url}")
-            
+
             # Fetch JSON data
             api_response = fetch_url(api_url, delay)
             response_data = api_response.json()
             holdings_data = response_data.get('data', [])
-            # Process JSON entries
 
+            # Process JSON entries
             for entry in holdings_data:
                 try:
                     # Skip non-COM entries
@@ -244,8 +269,8 @@ def scrape_holdings(delay):
                         continue
                     db_execute(
                         '''INSERT OR IGNORE INTO holdings
-                        (filing_id,sym, issuer_name,cl ,cusip, shares, value)
-                        VALUES (?, ?,?, ?, ?, ?,?)''',
+                        (filing_id, sym, issuer_name, cl, cusip, shares, value)
+                        VALUES (?, ?, ?, ?, ?, ?, ?)''',
                         (filing_id,
                          entry[0],
                          entry[1],  # Issuer Name
@@ -256,12 +281,14 @@ def scrape_holdings(delay):
                          commit=True
                     )
                     logger.info(f"Inserted holding: {entry[3]}")
-                    
+
                 except Exception as e:
                     logger.error(f"Error processing entry: {e}")
-                    
+
         except Exception as e:
             logger.error(f"Holdings scrape error: {e}")
+
+
 
 def get_previous_quarter(current_quarter: str) -> str:
     quarter, year = current_quarter.split()
@@ -387,8 +414,8 @@ def main():
         #scrape_managers(args.delay)
         #logger.info("Scraping filings...")
         #scrape_filings(args.delay)
-        #logger.info("Scraping holdings...")
-        #scrape_holdings(args.delay)
+        logger.info("Scraping holdings...")
+        scrape_holdings(args.delay)
         logger.info("Inferring transactions...")
         infer_transaction_types()
         logger.info("Exporting CSV...")
